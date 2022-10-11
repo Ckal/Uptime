@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Bofrost
     url: https://www.bofrost.com
+    maxResponseTime: 400
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
