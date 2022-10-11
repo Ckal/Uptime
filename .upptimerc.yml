@@ -7,8 +7,7 @@ sites:
     url: https://www.bofrost.com
     maxResponseTime: 400
     assignees:
-  - Ckal
-  
+      Ckal
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -32,7 +31,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 status-website:
   theme: night
-status-website:
   navbar:
     - title: Status
       href: /
