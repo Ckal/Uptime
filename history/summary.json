@@ -4,18 +4,20 @@
     "url": "https://www.bofrost.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.com.ico",
     "slug": "bofrost",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 322,
-    "timeWeek": 262,
-    "timeMonth": 262,
-    "timeYear": 262,
-    "dailyMinutesDown": {}
+    "time": 288,
+    "timeDay": 490,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
+    "dailyMinutesDown": {
+      "2022-10-16": 0
+    }
   },
   {
     "name": "Wikipedia",
