@@ -15,57 +15,57 @@ sites:
       Ckal
   - name: Bofrost.at
     url: https://www.bofrost.at
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.nl
     url: https://www.bofrost.nl
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.be
     url: https://www.bofrost.be
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.lu
     url: https://www.bofrost.lu
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.ch
     url: https://www.bofrost.ch
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.fr
     url: https://www.bofrost.fr
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.gr
     url: https://www.bofrost.gr
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.it
     url: https://www.bofrost.it
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.hr 
     url: https://www.bofrost.hr
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.si
     url: https://www.bofrost.si
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
   - name: Bofrost.es
     url: https://www.bofrost.es
-    maxResponseTime: 400
+    maxResponseTime: 800
     assignees:
       Ckal
 
