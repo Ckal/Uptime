@@ -10,7 +10,7 @@ sites:
       Ckal
   - name: Bofrost.de
     url: https://www.bofrost.de
-    maxResponseTime: 400
+    maxResponseTime: 700
     assignees:
       Ckal
   - name: Bofrost.at
