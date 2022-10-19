@@ -3,17 +3,75 @@ owner: Ckal # Your GitHub organization or username, where this repository lives
 repo: Uptime # The name of this repository
 
 sites:
-  - name: Bofrost
+  - name: Bofrost.com
     url: https://www.bofrost.com
     maxResponseTime: 400
     assignees:
       Ckal
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Bofrost.de
+    url: https://www.bofrost.de
+    maxResponseTime: 400
+    assignees:
+      Ckal
+  - name: Bofrost.at
+    url: https://www.bofrost.at
+    maxResponseTime: 400
+    assignees:
+      Ckal
+  - name: Bofrost.nl
+      url: https://www.bofrost.nl
+      maxResponseTime: 400
+      assignees:
+        Ckal
+    - name: Bofrost.be
+    url: https://www.bofrost.be
+    maxResponseTime: 400
+    assignees:
+      Ckal
+    - name: Bofrost.lu
+    url: https://www.bofrost.lu
+    maxResponseTime: 400
+    assignees:
+      Ckal
+    - name: Bofrost.ch
+      url: https://www.bofrost.ch
+      maxResponseTime: 400
+      assignees:
+        Ckal
+    - name: Bofrost.fr
+      url: https://www.bofrost.fr
+      maxResponseTime: 400
+      assignees:
+        Ckal
+    - name: Bofrost.gr
+      url: https://www.bofrost.gr
+      maxResponseTime: 400
+      assignees:
+        Ckal
+  - name: Bofrost.it
+    url: https://www.bofrost.it
+    maxResponseTime: 400
+    assignees:
+      Ckal
+    - name: Bofrost.hr 
+    url: https://www.bofrost.hr
+    maxResponseTime: 400
+    assignees:
+      Ckal
+  - name: Bofrost.si
+    url: https://www.bofrost.si
+    maxResponseTime: 400
+    assignees:
+      Ckal
+      - name: Bofrost.es
+    url: https://www.bofrost.es
+    maxResponseTime: 400
+    assignees:
+      Ckal
+  
+  
+  
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
