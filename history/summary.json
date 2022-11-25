@@ -62,17 +62,17 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "94.52%",
-    "uptimeDay": "78.84%",
+    "status": "degraded",
+    "uptime": "94.57%",
+    "uptimeDay": "79.38%",
     "uptimeWeek": "86.71%",
-    "uptimeMonth": "93.31%",
-    "uptimeYear": "94.52%",
-    "time": 1030,
-    "timeDay": 889,
-    "timeWeek": 1040,
-    "timeMonth": 1027,
-    "timeYear": 1030,
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "94.57%",
+    "time": 1031,
+    "timeDay": 923,
+    "timeWeek": 1043,
+    "timeMonth": 1028,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2022-11-25": 197,
       "2022-11-24": 258,
@@ -89,7 +89,7 @@
       "2022-11-13": 289,
       "2022-11-12": 139,
       "2022-11-11": 184,
-      "2022-11-10": 43
+      "2022-11-10": 16
     }
   },
   {
