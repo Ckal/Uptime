@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
     "status": "up",
-    "uptime": "96.49%",
+    "uptime": "96.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
-    "uptimeMonth": "94.71%",
-    "uptimeYear": "96.49%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "96.50%",
     "time": 806,
     "timeDay": 0,
     "timeWeek": 830,
@@ -94,7 +94,7 @@
     "time": 1032,
     "timeDay": 1073,
     "timeWeek": 1002,
-    "timeMonth": 1036,
+    "timeMonth": 1037,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2022-12-30": 236,
@@ -120,9 +120,9 @@
     "slug": "bofrost-nl",
     "status": "up",
     "uptime": "97.05%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "93.02%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "97.05%",
     "time": 940,
     "timeDay": 829,
@@ -130,7 +130,6 @@
     "timeMonth": 939,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2022-12-30": 8,
       "2022-12-29": 41,
       "2022-12-28": 89,
       "2022-12-27": 47,
@@ -155,7 +154,7 @@
       "2022-12-07": 147,
       "2022-12-06": 210,
       "2022-12-05": 166,
-      "2022-12-04": 33
+      "2022-12-04": 50
     }
   },
   {
@@ -163,19 +162,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "95.62%",
-    "uptimeMonth": "93.79%",
-    "uptimeYear": "97.38%",
+    "status": "degraded",
+    "uptime": "97.40%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "97.40%",
     "time": 935,
     "timeDay": 857,
-    "timeWeek": 886,
-    "timeMonth": 948,
+    "timeWeek": 885,
+    "timeMonth": 947,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2022-12-30": 33,
+      "2022-12-30": 34,
       "2022-12-29": 49,
       "2022-12-28": 102,
       "2022-12-27": 16,
@@ -200,8 +199,7 @@
       "2022-12-08": 111,
       "2022-12-07": 167,
       "2022-12-06": 66,
-      "2022-12-05": 156,
-      "2022-12-04": 17
+      "2022-12-05": 156
     }
   },
   {
