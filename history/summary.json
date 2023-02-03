@@ -145,18 +145,19 @@
     "url": "https://www.bofrost.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.nl.ico",
     "slug": "bofrost-nl",
-    "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "96.67%",
+    "status": "degraded",
+    "uptime": "98.09%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "96.66%",
     "uptimeMonth": "99.09%",
-    "uptimeYear": "98.01%",
+    "uptimeYear": "98.09%",
     "time": 939,
-    "timeDay": 845,
-    "timeWeek": 983,
-    "timeMonth": 940,
+    "timeDay": 864,
+    "timeWeek": 985,
+    "timeMonth": 941,
     "timeYear": 939,
     "dailyMinutesDown": {
+      "2023-02-03": 1,
       "2023-02-02": 35,
       "2023-02-01": 112,
       "2023-01-31": 75,
@@ -189,7 +190,7 @@
       "2022-12-10": 134,
       "2022-12-09": 137,
       "2022-12-08": 72,
-      "2022-12-07": 147
+      "2022-12-07": 23
     }
   },
   {
