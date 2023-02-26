@@ -57,9 +57,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "95.14%",
-    "uptimeWeek": "91.14%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "93.04%",
     "uptimeYear": "98.37%",
     "time": 881,
     "timeDay": 877,
@@ -67,7 +67,6 @@
     "timeMonth": 920,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-02-26": 8,
       "2023-02-25": 147,
       "2023-02-24": 219,
       "2023-02-23": 177,
@@ -85,7 +84,7 @@
       "2023-02-10": 265,
       "2023-02-09": 406,
       "2023-02-08": 330,
-      "2023-02-07": 219
+      "2023-02-07": 236
     }
   },
   {
@@ -93,26 +92,26 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "40.64%",
-    "uptimeWeek": "56.51%",
-    "uptimeMonth": "89.99%",
-    "uptimeYear": "97.65%",
+    "status": "degraded",
+    "uptime": "97.67%",
+    "uptimeDay": "41.20%",
+    "uptimeWeek": "56.71%",
+    "uptimeMonth": "90.04%",
+    "uptimeYear": "97.67%",
     "time": 1040,
-    "timeDay": 1206,
-    "timeWeek": 1113,
-    "timeMonth": 1062,
+    "timeDay": 1189,
+    "timeWeek": 1114,
+    "timeMonth": 1063,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-02-26": 279,
+      "2023-02-26": 280,
       "2023-02-25": 783,
       "2023-02-24": 682,
       "2023-02-23": 789,
       "2023-02-22": 462,
       "2023-02-21": 642,
       "2023-02-20": 538,
-      "2023-02-19": 214
+      "2023-02-19": 193
     }
   },
   {
@@ -165,7 +164,7 @@
     "uptimeYear": "98.22%",
     "time": 951,
     "timeDay": 926,
-    "timeWeek": 978,
+    "timeWeek": 977,
     "timeMonth": 990,
     "timeYear": 951,
     "dailyMinutesDown": {
@@ -201,7 +200,7 @@
     "status": "up",
     "uptime": "99.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.88%",
+    "uptimeWeek": "97.05%",
     "uptimeMonth": "96.94%",
     "uptimeYear": "99.02%",
     "time": 855,
