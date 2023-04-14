@@ -126,17 +126,17 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "85.13%",
+    "status": "degraded",
+    "uptime": "98.72%",
+    "uptimeDay": "85.09%",
     "uptimeWeek": "86.04%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "98.70%",
-    "time": 1097,
-    "timeDay": 1121,
-    "timeWeek": 1091,
-    "timeMonth": 1211,
-    "timeYear": 1097,
+    "uptimeMonth": "92.53%",
+    "uptimeYear": "98.72%",
+    "time": 1098,
+    "timeDay": 1141,
+    "timeWeek": 1094,
+    "timeMonth": 1212,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2023-04-14": 141,
       "2023-04-13": 271,
@@ -150,7 +150,7 @@
       "2023-04-05": 303,
       "2023-04-04": 507,
       "2023-04-03": 459,
-      "2023-04-02": 117
+      "2023-04-02": 87
     }
   },
   {
@@ -197,24 +197,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
     "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "51.00%",
-    "uptimeWeek": "63.37%",
-    "uptimeMonth": "91.57%",
-    "uptimeYear": "98.55%",
+    "uptime": "98.54%",
+    "uptimeDay": "52.11%",
+    "uptimeWeek": "63.04%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "98.54%",
     "time": 1174,
-    "timeDay": 1221,
+    "timeDay": 1217,
     "timeWeek": 1277,
     "timeMonth": 1423,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2023-04-14": 327,
+      "2023-04-14": 319,
       "2023-04-13": 678,
       "2023-04-12": 787,
       "2023-04-11": 770,
       "2023-04-10": 574,
       "2023-04-09": 533,
-      "2023-04-08": 27
+      "2023-04-08": 68
     }
   },
   {
@@ -346,7 +346,7 @@
     "time": 926,
     "timeDay": 1053,
     "timeWeek": 932,
-    "timeMonth": 965,
+    "timeMonth": 964,
     "timeYear": 926,
     "dailyMinutesDown": {
       "2023-04-12": 58,
