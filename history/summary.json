@@ -79,7 +79,7 @@
     "uptimeYear": "98.93%",
     "time": 904,
     "timeDay": 942,
-    "timeWeek": 960,
+    "timeWeek": 963,
     "timeMonth": 915,
     "timeYear": 904,
     "dailyMinutesDown": {
@@ -135,12 +135,12 @@
     "status": "up",
     "uptime": "98.85%",
     "uptimeDay": "70.03%",
-    "uptimeWeek": "78.47%",
+    "uptimeWeek": "78.57%",
     "uptimeMonth": "92.81%",
     "uptimeYear": "98.85%",
     "time": 1102,
     "timeDay": 1187,
-    "timeWeek": 1185,
+    "timeWeek": 1184,
     "timeMonth": 1168,
     "timeYear": 1102,
     "dailyMinutesDown": {
@@ -200,24 +200,24 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.61%",
-    "uptimeDay": "35.10%",
-    "uptimeWeek": "62.08%",
-    "uptimeMonth": "91.27%",
+    "uptimeDay": "36.01%",
+    "uptimeWeek": "62.23%",
+    "uptimeMonth": "91.31%",
     "uptimeYear": "98.61%",
-    "time": 1199,
-    "timeDay": 1399,
+    "time": 1200,
+    "timeDay": 1392,
     "timeWeek": 1311,
     "timeMonth": 1344,
-    "timeYear": 1199,
+    "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-04-28": 378,
+      "2023-04-28": 379,
       "2023-04-27": 761,
       "2023-04-26": 896,
       "2023-04-25": 751,
       "2023-04-24": 618,
-      "2023-04-23": 416
+      "2023-04-23": 399
     }
   },
   {
@@ -227,9 +227,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "95.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "95.62%",
     "uptimeYear": "98.58%",
     "time": 895,
     "timeDay": 936,
@@ -237,7 +237,6 @@
     "timeMonth": 951,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2023-04-28": 8,
       "2023-04-26": 61,
       "2023-04-25": 15,
       "2023-04-24": 17,
@@ -298,7 +297,8 @@
       "2022-12-05": 37,
       "2022-11-29": 22,
       "2022-11-28": 23,
-      "2022-11-26": 17
+      "2022-11-26": 17,
+      "2022-11-20": 17
     }
   },
   {
