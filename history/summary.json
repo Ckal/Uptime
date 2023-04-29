@@ -73,9 +73,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "91.18%",
-    "uptimeWeek": "93.45%",
-    "uptimeMonth": "94.40%",
+    "uptimeDay": "91.75%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "94.41%",
     "uptimeYear": "98.91%",
     "time": 903,
     "timeDay": 839,
@@ -83,7 +83,7 @@
     "timeMonth": 911,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-04-29": 111,
+      "2023-04-29": 103,
       "2023-04-28": 35,
       "2023-04-27": 137,
       "2023-04-26": 183,
@@ -123,7 +123,8 @@
       "2023-03-21": 84,
       "2023-03-20": 34,
       "2023-03-19": 69,
-      "2023-03-18": 34
+      "2023-03-18": 34,
+      "2023-03-17": 15
     }
   },
   {
@@ -133,9 +134,9 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "68.49%",
-    "uptimeWeek": "75.85%",
-    "uptimeMonth": "92.88%",
+    "uptimeDay": "69.06%",
+    "uptimeWeek": "75.93%",
+    "uptimeMonth": "92.87%",
     "uptimeYear": "98.87%",
     "time": 1101,
     "timeDay": 1057,
@@ -143,7 +144,7 @@
     "timeMonth": 1161,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2023-04-29": 152,
+      "2023-04-29": 144,
       "2023-04-28": 465,
       "2023-04-27": 429,
       "2023-04-26": 411,
@@ -153,7 +154,7 @@
       "2023-04-22": 124,
       "2023-04-21": 334,
       "2023-04-20": 226,
-      "2023-04-19": 80
+      "2023-04-19": 97
     }
   },
   {
@@ -199,24 +200,24 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "34.18%",
-    "uptimeWeek": "60.82%",
-    "uptimeMonth": "90.98%",
-    "uptimeYear": "98.57%",
+    "status": "degraded",
+    "uptime": "98.58%",
+    "uptimeDay": "35.28%",
+    "uptimeWeek": "60.99%",
+    "uptimeMonth": "91.02%",
+    "uptimeYear": "98.58%",
     "time": 1202,
-    "timeDay": 1373,
-    "timeWeek": 1333,
-    "timeMonth": 1343,
+    "timeDay": 1378,
+    "timeWeek": 1335,
+    "timeMonth": 1344,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-04-29": 375,
+      "2023-04-29": 376,
       "2023-04-28": 908,
       "2023-04-27": 761,
       "2023-04-26": 896,
       "2023-04-25": 751,
-      "2023-04-24": 260
+      "2023-04-24": 242
     }
   },
   {
