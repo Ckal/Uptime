@@ -1,7 +1,7 @@
 url: https://www.bofrost.ch
-status: up
+status: degraded
 code: 200
-responseTime: 375
-lastUpdated: 2023-05-03T23:08:54.714Z
+responseTime: 2137
+lastUpdated: 2023-05-04T02:11:22.640Z
 startTime: Wed Oct 19 2022 12:32:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
