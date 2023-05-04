@@ -13,7 +13,7 @@
     "time": 582,
     "timeDay": 215,
     "timeWeek": 453,
-    "timeMonth": 530,
+    "timeMonth": 527,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2023-05-02": 19,
@@ -139,8 +139,8 @@
     "uptimeMonth": "93.50%",
     "uptimeYear": "99.00%",
     "time": 1104,
-    "timeDay": 1191,
-    "timeWeek": 1158,
+    "timeDay": 1205,
+    "timeWeek": 1155,
     "timeMonth": 1145,
     "timeYear": 1104,
     "dailyMinutesDown": {
@@ -200,23 +200,23 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "98.24%",
-    "uptimeDay": "49.47%",
-    "uptimeWeek": "50.58%",
-    "uptimeMonth": "88.63%",
+    "uptimeDay": "50.39%",
+    "uptimeWeek": "50.55%",
+    "uptimeMonth": "88.62%",
     "uptimeYear": "98.24%",
     "time": 1209,
     "timeDay": 1342,
-    "timeWeek": 1353,
+    "timeWeek": 1354,
     "timeMonth": 1319,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2023-05-04": 240,
+      "2023-05-04": 227,
       "2023-05-03": 826,
       "2023-05-02": 927,
       "2023-05-01": 1009,
       "2023-04-30": 898,
       "2023-04-29": 933,
-      "2023-04-28": 151
+      "2023-04-28": 167
     }
   },
   {
@@ -224,18 +224,19 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.61%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "96.55%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "96.54%",
     "uptimeMonth": "95.30%",
     "uptimeYear": "98.61%",
     "time": 898,
-    "timeDay": 804,
-    "timeWeek": 928,
+    "timeDay": 831,
+    "timeWeek": 931,
     "timeMonth": 937,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2023-05-04": 2,
       "2023-05-03": 117,
       "2023-05-02": 148,
       "2023-04-30": 31,
@@ -289,8 +290,7 @@
       "2023-02-07": 19,
       "2023-02-06": 34,
       "2023-02-05": 49,
-      "2023-01-31": 42,
-      "2023-01-22": 17
+      "2023-01-31": 42
     }
   },
   {
@@ -343,7 +343,7 @@
     "status": "up",
     "uptime": "98.78%",
     "uptimeDay": "90.58%",
-    "uptimeWeek": "94.72%",
+    "uptimeWeek": "94.81%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "98.78%",
     "time": 926,
