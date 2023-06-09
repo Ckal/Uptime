@@ -85,7 +85,7 @@
     "uptimeMonth": "98.13%",
     "uptimeYear": "99.13%",
     "time": 917,
-    "timeDay": 953,
+    "timeDay": 1014,
     "timeWeek": 951,
     "timeMonth": 978,
     "timeYear": 917,
@@ -137,19 +137,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "91.11%",
-    "uptimeMonth": "92.98%",
-    "uptimeYear": "99.08%",
+    "status": "degraded",
+    "uptime": "99.10%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "91.15%",
+    "uptimeMonth": "93.08%",
+    "uptimeYear": "99.10%",
     "time": 1117,
-    "timeDay": 1146,
-    "timeWeek": 1073,
-    "timeMonth": 1172,
+    "timeDay": 1157,
+    "timeWeek": 1071,
+    "timeMonth": 1171,
     "timeYear": 1117,
     "dailyMinutesDown": {
-      "2023-06-09": 48,
+      "2023-06-09": 49,
       "2023-06-08": 61,
       "2023-06-07": 167,
       "2023-06-06": 194,
@@ -160,8 +160,7 @@
       "2023-06-01": 538,
       "2023-05-31": 535,
       "2023-05-30": 487,
-      "2023-05-29": 320,
-      "2023-05-28": 22
+      "2023-05-29": 296
     }
   },
   {
@@ -171,9 +170,9 @@
     "slug": "bofrost-nl",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.19%",
     "time": 974,
     "timeDay": 1075,
@@ -181,7 +180,6 @@
     "timeMonth": 1505,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2023-06-09": 7,
       "2023-05-14": 15,
       "2023-05-09": 16,
       "2023-05-08": 19,
@@ -203,7 +201,8 @@
       "2023-02-05": 198,
       "2023-02-04": 94,
       "2023-02-03": 98,
-      "2023-02-02": 35
+      "2023-02-02": 35,
+      "2023-02-01": 17
     }
   },
   {
@@ -211,24 +210,24 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "49.14%",
-    "uptimeWeek": "65.54%",
-    "uptimeMonth": "92.07%",
-    "uptimeYear": "98.96%",
+    "status": "degraded",
+    "uptime": "98.98%",
+    "uptimeDay": "49.02%",
+    "uptimeWeek": "66.07%",
+    "uptimeMonth": "92.19%",
+    "uptimeYear": "98.98%",
     "time": 1254,
-    "timeDay": 1264,
+    "timeDay": 1274,
     "timeWeek": 1292,
     "timeMonth": 1365,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2023-06-09": 372,
+      "2023-06-09": 374,
       "2023-06-08": 746,
       "2023-06-07": 601,
       "2023-06-06": 714,
       "2023-06-05": 840,
-      "2023-06-04": 200
+      "2023-06-04": 144
     }
   },
   {
