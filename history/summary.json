@@ -83,9 +83,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.15%",
     "time": 916,
     "timeDay": 881,
@@ -93,7 +93,6 @@
     "timeMonth": 1003,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2023-06-13": 7,
       "2023-06-10": 22,
       "2023-06-09": 21,
       "2023-06-07": 33,
@@ -133,7 +132,7 @@
       "2023-04-21": 63,
       "2023-04-20": 78,
       "2023-04-19": 77,
-      "2023-04-18": 57
+      "2023-04-18": 72
     }
   },
   {
@@ -141,19 +140,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "93.65%",
-    "uptimeYear": "99.19%",
+    "status": "degraded",
+    "uptime": "99.20%",
+    "uptimeDay": "90.30%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "99.20%",
     "time": 1116,
-    "timeDay": 1087,
+    "timeDay": 1089,
     "timeWeek": 1085,
     "timeMonth": 1154,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-06-13": 82,
+      "2023-06-13": 83,
       "2023-06-12": 142,
       "2023-06-11": 160,
       "2023-06-10": 134,
@@ -166,7 +165,7 @@
       "2023-06-03": 37,
       "2023-06-02": 380,
       "2023-06-01": 538,
-      "2023-05-31": 508
+      "2023-05-31": 476
     }
   },
   {
@@ -219,8 +218,8 @@
     "status": "degraded",
     "uptime": "98.86%",
     "uptimeDay": "45.72%",
-    "uptimeWeek": "61.35%",
-    "uptimeMonth": "91.11%",
+    "uptimeWeek": "61.29%",
+    "uptimeMonth": "91.09%",
     "uptimeYear": "98.86%",
     "time": 1254,
     "timeDay": 1281,
@@ -228,7 +227,7 @@
     "timeMonth": 1335,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2023-06-13": 477,
+      "2023-06-13": 484,
       "2023-06-12": 972,
       "2023-06-11": 869,
       "2023-06-10": 749,
