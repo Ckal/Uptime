@@ -89,7 +89,7 @@
     "uptimeYear": "99.32%",
     "time": 921,
     "timeDay": 915,
-    "timeWeek": 927,
+    "timeWeek": 929,
     "timeMonth": 951,
     "timeYear": 921,
     "dailyMinutesDown": {
@@ -139,9 +139,9 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "92.64%",
-    "uptimeWeek": "91.88%",
-    "uptimeMonth": "94.53%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "91.94%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.32%",
     "time": 1114,
     "timeDay": 1104,
@@ -149,7 +149,7 @@
     "timeMonth": 1124,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2023-06-22": 30,
+      "2023-06-22": 23,
       "2023-06-21": 132,
       "2023-06-20": 167,
       "2023-06-19": 103,
@@ -169,7 +169,7 @@
       "2023-06-05": 141,
       "2023-06-04": 141,
       "2023-06-03": 37,
-      "2023-06-02": 105
+      "2023-06-02": 121
     }
   },
   {
@@ -219,24 +219,24 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "38.12%",
-    "uptimeWeek": "61.33%",
-    "uptimeMonth": "91.10%",
-    "uptimeYear": "98.90%",
+    "status": "degraded",
+    "uptime": "98.92%",
+    "uptimeDay": "38.02%",
+    "uptimeWeek": "61.93%",
+    "uptimeMonth": "91.24%",
+    "uptimeYear": "98.92%",
     "time": 1253,
-    "timeDay": 1285,
-    "timeWeek": 1248,
+    "timeDay": 1286,
+    "timeWeek": 1244,
     "timeMonth": 1275,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2023-06-22": 260,
+      "2023-06-22": 261,
       "2023-06-21": 875,
       "2023-06-20": 749,
       "2023-06-19": 761,
       "2023-06-18": 666,
-      "2023-06-17": 584
+      "2023-06-17": 522
     }
   },
   {
@@ -360,7 +360,7 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "82.42%",
+    "uptimeDay": "82.89%",
     "uptimeWeek": "92.43%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "98.69%",
