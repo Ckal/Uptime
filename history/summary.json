@@ -85,19 +85,19 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "89.47%",
+    "status": "degraded",
+    "uptime": "99.08%",
+    "uptimeDay": "89.43%",
     "uptimeWeek": "72.23%",
-    "uptimeMonth": "91.38%",
-    "uptimeYear": "99.07%",
+    "uptimeMonth": "91.45%",
+    "uptimeYear": "99.08%",
     "time": 946,
-    "timeDay": 822,
-    "timeWeek": 926,
+    "timeDay": 825,
+    "timeWeek": 928,
     "timeMonth": 996,
     "timeYear": 946,
     "dailyMinutesDown": {
-      "2023-07-28": 151,
+      "2023-07-28": 152,
       "2023-07-27": 19,
       "2023-07-26": 70,
       "2023-07-25": 141,
@@ -105,7 +105,7 @@
       "2023-07-23": 883,
       "2023-07-22": 799,
       "2023-07-21": 769,
-      "2023-07-20": 600
+      "2023-07-20": 571
     }
   },
   {
@@ -121,7 +121,7 @@
     "uptimeYear": "99.39%",
     "time": 1134,
     "timeDay": 1139,
-    "timeWeek": 1182,
+    "timeWeek": 1183,
     "timeMonth": 1231,
     "timeYear": 1134,
     "dailyMinutesDown": {
@@ -190,9 +190,9 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "86.97%",
-    "uptimeWeek": "79.36%",
-    "uptimeMonth": "93.46%",
+    "uptimeDay": "87.72%",
+    "uptimeWeek": "79.55%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.29%",
     "time": 1228,
     "timeDay": 1137,
@@ -200,7 +200,7 @@
     "timeMonth": 1129,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2023-07-28": 95,
+      "2023-07-28": 84,
       "2023-07-27": 252,
       "2023-07-26": 237,
       "2023-07-25": 356,
@@ -209,7 +209,7 @@
       "2023-07-22": 353,
       "2023-07-21": 386,
       "2023-07-20": 406,
-      "2023-07-19": 180
+      "2023-07-19": 204
     }
   },
   {
@@ -347,8 +347,8 @@
     "uptimeYear": "99.05%",
     "time": 973,
     "timeDay": 979,
-    "timeWeek": 934,
-    "timeMonth": 1006,
+    "timeWeek": 935,
+    "timeMonth": 1007,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2023-07-27": 44,
