@@ -88,12 +88,12 @@
     "status": "up",
     "uptime": "99.07%",
     "uptimeDay": "89.47%",
-    "uptimeWeek": "73.90%",
+    "uptimeWeek": "74.01%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.07%",
     "time": 946,
     "timeDay": 854,
-    "timeWeek": 925,
+    "timeWeek": 924,
     "timeMonth": 995,
     "timeYear": 946,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
     "uptimeYear": "99.39%",
     "time": 1134,
     "timeDay": 1087,
-    "timeWeek": 1182,
+    "timeWeek": 1179,
     "timeMonth": 1232,
     "timeYear": 1134,
     "dailyMinutesDown": {
@@ -188,19 +188,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "90.56%",
-    "uptimeWeek": "80.37%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.29%",
+    "status": "degraded",
+    "uptime": "99.30%",
+    "uptimeDay": "91.68%",
+    "uptimeWeek": "80.36%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "99.30%",
     "time": 1228,
-    "timeDay": 1152,
+    "timeDay": 1146,
     "timeWeek": 1051,
     "timeMonth": 1130,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2023-07-28": 84,
+      "2023-07-28": 86,
       "2023-07-27": 252,
       "2023-07-26": 237,
       "2023-07-25": 356,
@@ -209,7 +209,7 @@
       "2023-07-22": 353,
       "2023-07-21": 386,
       "2023-07-20": 406,
-      "2023-07-19": 204
+      "2023-07-19": 180
     }
   },
   {
@@ -219,9 +219,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "84.95%",
-    "uptimeMonth": "92.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.01%",
+    "uptimeMonth": "92.87%",
     "uptimeYear": "98.87%",
     "time": 957,
     "timeDay": 956,
@@ -229,7 +229,6 @@
     "timeMonth": 986,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2023-07-28": 7,
       "2023-07-27": 396,
       "2023-07-26": 298,
       "2023-07-25": 105,
@@ -278,7 +277,7 @@
       "2023-04-30": 31,
       "2023-04-29": 33,
       "2023-04-28": 18,
-      "2023-04-26": 40
+      "2023-04-26": 61
     }
   },
   {
