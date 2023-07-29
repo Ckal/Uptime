@@ -1,7 +1,7 @@
 url: https://www.bofrost.si
-status: degraded
+status: up
 code: 200
-responseTime: 3384
-lastUpdated: 2023-07-29T09:36:32.758Z
+responseTime: 545
+lastUpdated: 2023-07-29T09:43:09.651Z
 startTime: Wed Oct 19 2022 12:32:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
