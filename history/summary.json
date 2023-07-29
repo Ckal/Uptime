@@ -87,17 +87,17 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "92.00%",
-    "uptimeWeek": "76.91%",
-    "uptimeMonth": "91.40%",
+    "uptimeDay": "92.66%",
+    "uptimeWeek": "77.13%",
+    "uptimeMonth": "91.33%",
     "uptimeYear": "99.07%",
     "time": 946,
     "timeDay": 907,
-    "timeWeek": 922,
+    "timeWeek": 921,
     "timeMonth": 996,
     "timeYear": 946,
     "dailyMinutesDown": {
-      "2023-07-29": 58,
+      "2023-07-29": 48,
       "2023-07-28": 156,
       "2023-07-27": 19,
       "2023-07-26": 70,
@@ -106,7 +106,7 @@
       "2023-07-23": 883,
       "2023-07-22": 799,
       "2023-07-21": 769,
-      "2023-07-20": 529
+      "2023-07-20": 571
     }
   },
   {
@@ -114,11 +114,11 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.39%",
-    "uptimeDay": "86.91%",
+    "uptimeDay": "86.86%",
     "uptimeWeek": "83.38%",
-    "uptimeMonth": "94.31%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.39%",
     "time": 1134,
     "timeDay": 1186,
@@ -126,7 +126,7 @@
     "timeMonth": 1234,
     "timeYear": 1134,
     "dailyMinutesDown": {
-      "2023-07-29": 48,
+      "2023-07-29": 49,
       "2023-07-28": 180,
       "2023-07-27": 176,
       "2023-07-26": 164,
@@ -136,7 +136,7 @@
       "2023-07-22": 343,
       "2023-07-21": 283,
       "2023-07-20": 270,
-      "2023-07-19": 196
+      "2023-07-19": 176
     }
   },
   {
@@ -197,9 +197,9 @@
     "uptimeMonth": "93.40%",
     "uptimeYear": "99.29%",
     "time": 1227,
-    "timeDay": 1142,
+    "timeDay": 1147,
     "timeWeek": 1052,
-    "timeMonth": 1128,
+    "timeMonth": 1129,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2023-07-29": 39,
@@ -228,7 +228,7 @@
     "uptimeYear": "98.87%",
     "time": 956,
     "timeDay": 953,
-    "timeWeek": 948,
+    "timeWeek": 951,
     "timeMonth": 986,
     "timeYear": 956,
     "dailyMinutesDown": {
