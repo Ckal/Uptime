@@ -116,19 +116,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "87.82%",
-    "uptimeMonth": "94.37%",
-    "uptimeYear": "99.40%",
+    "status": "degraded",
+    "uptime": "99.41%",
+    "uptimeDay": "89.40%",
+    "uptimeWeek": "87.81%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "99.41%",
     "time": 1133,
-    "timeDay": 1051,
-    "timeWeek": 1131,
+    "timeDay": 1072,
+    "timeWeek": 1132,
     "timeMonth": 1233,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-07-31": 107,
+      "2023-07-31": 108,
       "2023-07-30": 96,
       "2023-07-29": 112,
       "2023-07-28": 180,
@@ -139,7 +139,7 @@
       "2023-07-23": 294,
       "2023-07-22": 343,
       "2023-07-21": 283,
-      "2023-07-20": 170
+      "2023-07-20": 125
     }
   },
   {
@@ -196,7 +196,7 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "96.94%",
-    "uptimeWeek": "87.36%",
+    "uptimeWeek": "87.50%",
     "uptimeMonth": "93.52%",
     "uptimeYear": "99.31%",
     "time": 1225,
@@ -349,9 +349,9 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "96.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "99.06%",
     "time": 972,
     "timeDay": 829,
@@ -359,7 +359,6 @@
     "timeMonth": 1002,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2023-07-31": 8,
       "2023-07-27": 44,
       "2023-07-26": 52,
       "2023-07-25": 37,
@@ -407,7 +406,7 @@
       "2023-05-15": 532,
       "2023-05-14": 19,
       "2023-05-13": 4,
-      "2023-05-12": 47
+      "2023-05-12": 75
     }
   },
   {
@@ -561,7 +560,7 @@
     "uptimeYear": "99.36%",
     "time": 1245,
     "timeDay": 1068,
-    "timeWeek": 1038,
+    "timeWeek": 1036,
     "timeMonth": 1095,
     "timeYear": 1245,
     "dailyMinutesDown": {
