@@ -13,7 +13,7 @@
     "time": 642,
     "timeDay": 558,
     "timeWeek": 951,
-    "timeMonth": 614,
+    "timeMonth": 616,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2023-07-26": 32,
@@ -198,19 +198,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "94.62%",
-    "uptimeMonth": "93.63%",
-    "uptimeYear": "99.33%",
+    "status": "degraded",
+    "uptime": "99.34%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "94.59%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "99.34%",
     "time": 1223,
-    "timeDay": 938,
-    "timeWeek": 1029,
+    "timeDay": 957,
+    "timeWeek": 1030,
     "timeMonth": 1090,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2023-08-03": 58,
+      "2023-08-03": 61,
       "2023-08-02": 26,
       "2023-08-01": 35,
       "2023-07-31": 48,
@@ -224,7 +224,7 @@
       "2023-07-23": 246,
       "2023-07-22": 353,
       "2023-07-21": 386,
-      "2023-07-20": 154
+      "2023-07-20": 118
     }
   },
   {
@@ -234,9 +234,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "98.90%",
     "time": 955,
     "timeDay": 855,
@@ -244,7 +244,6 @@
     "timeMonth": 986,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-08-03": 11,
       "2023-07-29": 15,
       "2023-07-27": 396,
       "2023-07-26": 298,
@@ -294,7 +293,7 @@
       "2023-04-30": 31,
       "2023-04-29": 33,
       "2023-04-28": 18,
-      "2023-04-26": 17
+      "2023-04-26": 40
     }
   },
   {
@@ -366,7 +365,7 @@
     "time": 972,
     "timeDay": 1072,
     "timeWeek": 928,
-    "timeMonth": 1002,
+    "timeMonth": 1001,
     "timeYear": 972,
     "dailyMinutesDown": {
       "2023-07-27": 44,
