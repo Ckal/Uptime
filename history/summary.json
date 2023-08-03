@@ -92,7 +92,7 @@
     "uptimeMonth": "91.31%",
     "uptimeYear": "99.08%",
     "time": 945,
-    "timeDay": 813,
+    "timeDay": 785,
     "timeWeek": 863,
     "timeMonth": 997,
     "timeYear": 945,
@@ -118,19 +118,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.43%",
-    "uptimeDay": "91.27%",
-    "uptimeWeek": "91.14%",
-    "uptimeMonth": "94.58%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "94.63%",
     "uptimeYear": "99.43%",
     "time": 1133,
-    "timeDay": 1037,
+    "timeDay": 1040,
     "timeWeek": 1104,
     "timeMonth": 1228,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-08-03": 104,
+      "2023-08-03": 105,
       "2023-08-02": 75,
       "2023-08-01": 78,
       "2023-07-31": 132,
@@ -143,7 +143,7 @@
       "2023-07-24": 189,
       "2023-07-23": 294,
       "2023-07-22": 343,
-      "2023-07-21": 81
+      "2023-07-21": 56
     }
   },
   {
@@ -159,8 +159,8 @@
     "uptimeYear": "99.32%",
     "time": 1024,
     "timeDay": 1511,
-    "timeWeek": 1478,
-    "timeMonth": 1482,
+    "timeWeek": 1506,
+    "timeMonth": 1489,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2023-08-03": 32,
@@ -199,17 +199,17 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "93.77%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "93.62%",
     "uptimeYear": "99.33%",
     "time": 1223,
-    "timeDay": 961,
+    "timeDay": 967,
     "timeWeek": 1027,
     "timeMonth": 1094,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2023-08-03": 28,
+      "2023-08-03": 21,
       "2023-08-02": 26,
       "2023-08-01": 35,
       "2023-07-31": 48,
@@ -223,7 +223,7 @@
       "2023-07-23": 246,
       "2023-07-22": 353,
       "2023-07-21": 386,
-      "2023-07-20": 174
+      "2023-07-20": 195
     }
   },
   {
