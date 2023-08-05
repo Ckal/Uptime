@@ -93,7 +93,7 @@
     "uptimeYear": "99.12%",
     "time": 945,
     "timeDay": 939,
-    "timeWeek": 917,
+    "timeWeek": 919,
     "timeMonth": 976,
     "timeYear": 945,
     "dailyMinutesDown": {
@@ -120,19 +120,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.43%",
-    "uptimeDay": "88.24%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "94.53%",
+    "uptimeDay": "88.17%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "94.57%",
     "uptimeYear": "99.43%",
     "time": 1132,
-    "timeDay": 1089,
+    "timeDay": 1090,
     "timeWeek": 1084,
     "timeMonth": 1190,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2023-08-05": 98,
+      "2023-08-05": 99,
       "2023-08-04": 155,
       "2023-08-03": 241,
       "2023-08-02": 75,
@@ -146,7 +146,7 @@
       "2023-07-25": 348,
       "2023-07-24": 189,
       "2023-07-23": 294,
-      "2023-07-22": 53
+      "2023-07-22": 37
     }
   },
   {
@@ -201,18 +201,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.35%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "99.35%",
     "time": 1221,
     "timeDay": 1103,
     "timeWeek": 1024,
     "timeMonth": 1070,
     "timeYear": 1221,
     "dailyMinutesDown": {
-      "2023-08-05": 55,
+      "2023-08-05": 48,
       "2023-08-04": 58,
       "2023-08-03": 93,
       "2023-08-02": 26,
@@ -227,7 +227,7 @@
       "2023-07-24": 355,
       "2023-07-23": 246,
       "2023-07-22": 353,
-      "2023-07-21": 284
+      "2023-07-21": 315
     }
   },
   {
@@ -366,7 +366,7 @@
     "uptimeMonth": "97.34%",
     "uptimeYear": "99.08%",
     "time": 971,
-    "timeDay": 830,
+    "timeDay": 849,
     "timeWeek": 918,
     "timeMonth": 950,
     "timeYear": 971,
