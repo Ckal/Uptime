@@ -93,8 +93,8 @@
     "uptimeYear": "99.14%",
     "time": 945,
     "timeDay": 968,
-    "timeWeek": 933,
-    "timeMonth": 974,
+    "timeWeek": 936,
+    "timeMonth": 972,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2023-08-06": 28,
@@ -121,19 +121,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "86.13%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "94.43%",
-    "uptimeYear": "99.42%",
+    "status": "degraded",
+    "uptime": "99.43%",
+    "uptimeDay": "86.46%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "99.43%",
     "time": 1133,
-    "timeDay": 1285,
-    "timeWeek": 1105,
-    "timeMonth": 1187,
+    "timeDay": 1287,
+    "timeWeek": 1109,
+    "timeMonth": 1188,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-08-08": 127,
+      "2023-08-08": 128,
       "2023-08-07": 203,
       "2023-08-06": 152,
       "2023-08-05": 130,
@@ -148,7 +148,7 @@
       "2023-07-27": 176,
       "2023-07-26": 164,
       "2023-07-25": 348,
-      "2023-07-24": 71
+      "2023-07-24": 46
     }
   },
   {
@@ -203,18 +203,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "93.99%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "99.37%",
     "time": 1220,
-    "timeDay": 1076,
+    "timeDay": 1074,
     "timeWeek": 1064,
     "timeMonth": 1071,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2023-08-08": 7,
       "2023-08-07": 60,
       "2023-08-06": 31,
       "2023-08-05": 65,
@@ -232,7 +231,7 @@
       "2023-07-24": 355,
       "2023-07-23": 246,
       "2023-07-22": 353,
-      "2023-07-21": 129
+      "2023-07-21": 160
     }
   },
   {
