@@ -11,7 +11,7 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.79%",
     "time": 641,
-    "timeDay": 488,
+    "timeDay": 440,
     "timeWeek": 522,
     "timeMonth": 673,
     "timeYear": 641,
@@ -123,19 +123,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "92.28%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "99.45%",
+    "status": "degraded",
+    "uptime": "99.46%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "90.97%",
+    "uptimeMonth": "94.62%",
+    "uptimeYear": "99.46%",
     "time": 1132,
-    "timeDay": 1108,
-    "timeWeek": 1118,
+    "timeDay": 1115,
+    "timeWeek": 1120,
     "timeMonth": 1152,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2023-08-17": 43,
+      "2023-08-17": 44,
       "2023-08-16": 105,
       "2023-08-15": 118,
       "2023-08-14": 134,
@@ -151,7 +151,7 @@
       "2023-08-04": 155,
       "2023-08-03": 241,
       "2023-08-02": 75,
-      "2023-08-01": 78
+      "2023-08-01": 58
     }
   },
   {
@@ -208,9 +208,9 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "94.28%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.42%",
     "time": 1214,
     "timeDay": 1059,
@@ -218,7 +218,6 @@
     "timeMonth": 1057,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2023-08-17": 7,
       "2023-08-16": 60,
       "2023-08-15": 17,
       "2023-08-14": 89,
@@ -242,7 +241,7 @@
       "2023-07-25": 356,
       "2023-07-24": 355,
       "2023-07-23": 246,
-      "2023-07-22": 20
+      "2023-07-22": 36
     }
   },
   {
@@ -387,7 +386,7 @@
     "uptimeYear": "99.11%",
     "time": 972,
     "timeDay": 763,
-    "timeWeek": 962,
+    "timeWeek": 966,
     "timeMonth": 950,
     "timeYear": 972,
     "dailyMinutesDown": {
