@@ -13,7 +13,7 @@
     "time": 642,
     "timeDay": 996,
     "timeWeek": 613,
-    "timeMonth": 689,
+    "timeMonth": 688,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2023-08-19": 252,
@@ -93,7 +93,7 @@
     "uptimeMonth": "91.99%",
     "uptimeYear": "99.20%",
     "time": 945,
-    "timeDay": 768,
+    "timeDay": 756,
     "timeWeek": 915,
     "timeMonth": 933,
     "timeYear": 945,
@@ -135,7 +135,7 @@
     "time": 1132,
     "timeDay": 1053,
     "timeWeek": 1100,
-    "timeMonth": 1137,
+    "timeMonth": 1138,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2023-08-20": 24,
@@ -208,19 +208,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "94.57%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "94.60%",
     "uptimeYear": "99.46%",
     "time": 1211,
-    "timeDay": 973,
-    "timeWeek": 993,
+    "timeDay": 971,
+    "timeWeek": 994,
     "timeMonth": 1042,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2023-08-20": 21,
+      "2023-08-20": 24,
       "2023-08-19": 41,
       "2023-08-18": 33,
       "2023-08-17": 33,
@@ -245,8 +245,7 @@
       "2023-07-27": 252,
       "2023-07-26": 237,
       "2023-07-25": 356,
-      "2023-07-24": 355,
-      "2023-07-23": 16
+      "2023-07-24": 355
     }
   },
   {
@@ -256,9 +255,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "96.18%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "96.20%",
     "uptimeYear": "98.96%",
     "time": 955,
     "timeDay": 771,
@@ -266,7 +265,7 @@
     "timeMonth": 946,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-08-20": 35,
+      "2023-08-20": 24,
       "2023-08-16": 20,
       "2023-08-15": 18,
       "2023-08-14": 3,
@@ -317,7 +316,8 @@
       "2023-05-04": 71,
       "2023-05-03": 117,
       "2023-05-02": 148,
-      "2023-04-30": 31
+      "2023-04-30": 31,
+      "2023-04-29": 16
     }
   },
   {
