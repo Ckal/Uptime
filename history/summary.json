@@ -87,19 +87,19 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "96.53%",
+    "status": "degraded",
+    "uptime": "99.18%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "96.52%",
     "uptimeMonth": "97.65%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 943,
-    "timeDay": 899,
-    "timeWeek": 862,
+    "timeDay": 930,
+    "timeWeek": 864,
     "timeMonth": 898,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-08-26": 37,
+      "2023-08-26": 38,
       "2023-08-25": 19,
       "2023-08-24": 123,
       "2023-08-23": 98,
@@ -124,7 +124,7 @@
       "2023-07-24": 344,
       "2023-07-23": 883,
       "2023-07-22": 799,
-      "2023-07-21": 443
+      "2023-07-21": 420
     }
   },
   {
@@ -221,7 +221,7 @@
     "time": 1209,
     "timeDay": 1317,
     "timeWeek": 1002,
-    "timeMonth": 1035,
+    "timeMonth": 1036,
     "timeYear": 1209,
     "dailyMinutesDown": {
       "2023-08-24": 20,
@@ -391,9 +391,9 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.14%",
     "time": 970,
     "timeDay": 833,
@@ -401,7 +401,6 @@
     "timeMonth": 940,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2023-08-26": 7,
       "2023-08-18": 33,
       "2023-08-03": 17,
       "2023-07-27": 44,
@@ -449,7 +448,9 @@
       "2023-05-25": 33,
       "2023-05-24": 18,
       "2023-05-15": 532,
-      "2023-05-14": 19
+      "2023-05-14": 19,
+      "2023-05-13": 4,
+      "2023-05-12": 12
     }
   },
   {
@@ -568,7 +569,7 @@
     "uptimeYear": "99.79%",
     "time": 1256,
     "timeDay": 533,
-    "timeWeek": 2124,
+    "timeWeek": 1715,
     "timeMonth": 1885,
     "timeYear": 1256,
     "dailyMinutesDown": {
