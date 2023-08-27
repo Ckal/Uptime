@@ -89,9 +89,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "93.35%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "97.51%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "99.18%",
     "time": 943,
     "timeDay": 927,
@@ -99,7 +99,7 @@
     "timeMonth": 903,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-08-27": 41,
+      "2023-08-27": 34,
       "2023-08-26": 73,
       "2023-08-25": 19,
       "2023-08-24": 123,
@@ -125,7 +125,7 @@
       "2023-07-24": 344,
       "2023-07-23": 883,
       "2023-07-22": 799,
-      "2023-07-21": 340
+      "2023-07-21": 360
     }
   },
   {
@@ -133,19 +133,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "82.70%",
-    "uptimeWeek": "85.08%",
-    "uptimeMonth": "94.55%",
-    "uptimeYear": "99.47%",
+    "status": "degraded",
+    "uptime": "99.48%",
+    "uptimeDay": "82.63%",
+    "uptimeWeek": "85.07%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "99.48%",
     "time": 1132,
-    "timeDay": 1249,
-    "timeWeek": 1136,
-    "timeMonth": 1122,
+    "timeDay": 1255,
+    "timeWeek": 1137,
+    "timeMonth": 1123,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2023-08-27": 42,
+      "2023-08-27": 43,
       "2023-08-26": 222,
       "2023-08-25": 190,
       "2023-08-24": 326,
@@ -157,8 +157,7 @@
       "2023-08-18": 208,
       "2023-08-17": 172,
       "2023-08-16": 105,
-      "2023-08-15": 118,
-      "2023-08-14": 34
+      "2023-08-15": 118
     }
   },
   {
@@ -222,7 +221,7 @@
     "time": 1209,
     "timeDay": 895,
     "timeWeek": 998,
-    "timeMonth": 1029,
+    "timeMonth": 1030,
     "timeYear": 1209,
     "dailyMinutesDown": {
       "2023-08-24": 20,
@@ -264,7 +263,7 @@
     "uptime": "98.98%",
     "uptimeDay": "98.80%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.21%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "98.98%",
     "time": 956,
     "timeDay": 976,
@@ -397,7 +396,7 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.14%",
     "time": 970,
-    "timeDay": 896,
+    "timeDay": 901,
     "timeWeek": 910,
     "timeMonth": 942,
     "timeYear": 970,
