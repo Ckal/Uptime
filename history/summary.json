@@ -89,9 +89,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "92.82%",
-    "uptimeMonth": "96.71%",
+    "uptimeDay": "89.43%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "96.72%",
     "uptimeYear": "99.26%",
     "time": 944,
     "timeDay": 993,
@@ -99,7 +99,7 @@
     "timeMonth": 932,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2023-09-02": 106,
+      "2023-09-02": 99,
       "2023-09-01": 120,
       "2023-08-31": 49,
       "2023-08-30": 20,
@@ -130,7 +130,7 @@
       "2023-07-25": 141,
       "2023-07-24": 344,
       "2023-07-23": 883,
-      "2023-07-22": 175
+      "2023-07-22": 195
     }
   },
   {
@@ -145,7 +145,7 @@
     "uptimeMonth": "93.71%",
     "uptimeYear": "99.40%",
     "time": 1136,
-    "timeDay": 1262,
+    "timeDay": 1268,
     "timeWeek": 1237,
     "timeMonth": 1151,
     "timeYear": 1136,
@@ -213,18 +213,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "99.49%",
     "time": 1206,
-    "timeDay": 877,
-    "timeWeek": 894,
+    "timeDay": 905,
+    "timeWeek": 898,
     "timeMonth": 1013,
     "timeYear": 1206,
     "dailyMinutesDown": {
+      "2023-09-02": 2,
       "2023-08-28": 15,
       "2023-08-24": 20,
       "2023-08-21": 72,
@@ -253,7 +254,7 @@
       "2023-07-27": 252,
       "2023-07-26": 237,
       "2023-07-25": 356,
-      "2023-07-24": 205
+      "2023-07-24": 179
     }
   },
   {
@@ -464,8 +465,8 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.44%",
-    "uptimeMonth": "90.47%",
+    "uptimeWeek": "64.38%",
+    "uptimeMonth": "90.46%",
     "uptimeYear": "98.99%",
     "time": 1061,
     "timeDay": 531,
@@ -473,7 +474,7 @@
     "timeMonth": 1445,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2023-09-02": 647,
+      "2023-09-02": 653,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 57,
