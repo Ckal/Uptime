@@ -87,16 +87,16 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "93.06%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "99.27%",
+    "status": "degraded",
+    "uptime": "99.28%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "93.18%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "99.28%",
     "time": 943,
-    "timeDay": 880,
-    "timeWeek": 941,
-    "timeMonth": 930,
+    "timeDay": 891,
+    "timeWeek": 943,
+    "timeMonth": 931,
     "timeYear": 943,
     "dailyMinutesDown": {
       "2023-09-03": 60,
@@ -131,7 +131,7 @@
       "2023-07-25": 141,
       "2023-07-24": 344,
       "2023-07-23": 883,
-      "2023-07-22": 103
+      "2023-07-22": 85
     }
   },
   {
@@ -141,17 +141,17 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "85.23%",
-    "uptimeWeek": "75.97%",
-    "uptimeMonth": "93.54%",
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "76.25%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.38%",
     "time": 1137,
-    "timeDay": 1249,
+    "timeDay": 1244,
     "timeWeek": 1227,
     "timeMonth": 1159,
     "timeYear": 1137,
     "dailyMinutesDown": {
-      "2023-09-03": 212,
+      "2023-09-03": 197,
       "2023-09-02": 299,
       "2023-09-01": 386,
       "2023-08-31": 282,
@@ -159,7 +159,7 @@
       "2023-08-29": 444,
       "2023-08-28": 335,
       "2023-08-27": 415,
-      "2023-08-26": 68
+      "2023-08-26": 95
     }
   },
   {
@@ -222,7 +222,7 @@
     "uptimeYear": "99.49%",
     "time": 1205,
     "timeDay": 888,
-    "timeWeek": 895,
+    "timeWeek": 888,
     "timeMonth": 1010,
     "timeYear": 1205,
     "dailyMinutesDown": {
@@ -466,7 +466,7 @@
     "slug": "bofrost-gr",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "96.61%",
+    "uptimeDay": "97.54%",
     "uptimeWeek": "58.88%",
     "uptimeMonth": "89.19%",
     "uptimeYear": "98.88%",
