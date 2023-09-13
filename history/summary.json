@@ -88,15 +88,15 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "97.80%",
+    "status": "degraded",
+    "uptime": "99.36%",
+    "uptimeDay": "97.76%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "96.70%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 942,
-    "timeDay": 916,
-    "timeWeek": 956,
+    "timeDay": 937,
+    "timeWeek": 959,
     "timeMonth": 924,
     "timeYear": 942,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
       "2023-07-26": 70,
       "2023-07-25": 141,
       "2023-07-24": 344,
-      "2023-07-23": 521
+      "2023-07-23": 487
     }
   },
   {
@@ -148,18 +148,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "86.69%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "93.85%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.42%",
+    "uptimeDay": "87.63%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "93.74%",
+    "uptimeYear": "99.42%",
     "time": 1133,
     "timeDay": 959,
     "timeWeek": 997,
     "timeMonth": 1135,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-09-13": 100,
+      "2023-09-13": 86,
       "2023-09-12": 93,
       "2023-09-11": 37,
       "2023-09-10": 77,
@@ -174,7 +174,7 @@
       "2023-08-31": 282,
       "2023-08-30": 384,
       "2023-08-29": 444,
-      "2023-08-28": 194
+      "2023-08-28": 253
     }
   },
   {
@@ -231,9 +231,9 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "80.50%",
+    "uptimeDay": "79.52%",
     "uptimeWeek": "90.57%",
-    "uptimeMonth": "96.12%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.28%",
     "time": 1201,
     "timeDay": 834,
@@ -241,7 +241,7 @@
     "timeMonth": 955,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2023-09-13": 223,
+      "2023-09-13": 237,
       "2023-09-12": 58,
       "2023-09-11": 28,
       "2023-09-09": 441,
@@ -293,7 +293,7 @@
     "uptimeYear": "98.95%",
     "time": 954,
     "timeDay": 931,
-    "timeWeek": 929,
+    "timeWeek": 932,
     "timeMonth": 945,
     "timeYear": 954,
     "dailyMinutesDown": {
