@@ -95,7 +95,7 @@
     "uptimeMonth": "96.69%",
     "uptimeYear": "99.36%",
     "time": 943,
-    "timeDay": 970,
+    "timeDay": 964,
     "timeWeek": 1011,
     "timeMonth": 932,
     "timeYear": 943,
@@ -150,9 +150,9 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "93.95%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "93.92%",
     "uptimeYear": "99.44%",
     "time": 1133,
     "timeDay": 1161,
@@ -160,7 +160,7 @@
     "timeMonth": 1135,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-09-15": 37,
+      "2023-09-15": 30,
       "2023-09-14": 76,
       "2023-09-13": 119,
       "2023-09-12": 93,
@@ -177,7 +177,7 @@
       "2023-08-31": 282,
       "2023-08-30": 384,
       "2023-08-29": 444,
-      "2023-08-28": 15
+      "2023-08-28": 36
     }
   },
   {
@@ -241,7 +241,7 @@
     "time": 1200,
     "timeDay": 909,
     "timeWeek": 899,
-    "timeMonth": 949,
+    "timeMonth": 950,
     "timeYear": 1200,
     "dailyMinutesDown": {
       "2023-09-15": 16,
@@ -289,18 +289,19 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "98.96%",
     "time": 956,
-    "timeDay": 1046,
+    "timeDay": 1049,
     "timeWeek": 981,
     "timeMonth": 957,
     "timeYear": 956,
     "dailyMinutesDown": {
+      "2023-09-15": 4,
       "2023-09-13": 29,
       "2023-09-12": 15,
       "2023-09-10": 18,
@@ -359,7 +360,7 @@
       "2023-05-07": 43,
       "2023-05-05": 15,
       "2023-05-04": 71,
-      "2023-05-03": 98
+      "2023-05-03": 79
     }
   },
   {
@@ -434,7 +435,7 @@
     "uptimeMonth": "98.41%",
     "uptimeYear": "99.24%",
     "time": 968,
-    "timeDay": 955,
+    "timeDay": 964,
     "timeWeek": 980,
     "timeMonth": 937,
     "timeYear": 968,
