@@ -98,7 +98,7 @@
     "time": 943,
     "timeDay": 936,
     "timeWeek": 953,
-    "timeMonth": 943,
+    "timeMonth": 944,
     "timeYear": 943,
     "dailyMinutesDown": {
       "2023-09-24": 48,
@@ -154,19 +154,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "87.28%",
-    "uptimeWeek": "93.39%",
-    "uptimeMonth": "94.49%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "94.47%",
     "uptimeYear": "99.51%",
     "time": 1130,
-    "timeDay": 1084,
-    "timeWeek": 1055,
+    "timeDay": 1076,
+    "timeWeek": 1053,
     "timeMonth": 1118,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-09-24": 135,
+      "2023-09-24": 141,
       "2023-09-23": 148,
       "2023-09-22": 148,
       "2023-09-21": 188,
@@ -204,7 +204,7 @@
     "uptimeYear": "99.42%",
     "time": 1047,
     "timeDay": 659,
-    "timeWeek": 1306,
+    "timeWeek": 1339,
     "timeMonth": 1349,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -245,9 +245,9 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "96.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.83%",
     "uptimeYear": "99.30%",
     "time": 1197,
     "timeDay": 1003,
@@ -255,7 +255,6 @@
     "timeMonth": 906,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2023-09-24": 7,
       "2023-09-15": 16,
       "2023-09-13": 301,
       "2023-09-12": 58,
@@ -293,7 +292,7 @@
       "2023-07-28": 198,
       "2023-07-27": 252,
       "2023-07-26": 237,
-      "2023-07-25": 268
+      "2023-07-25": 299
     }
   },
   {
@@ -309,7 +308,7 @@
     "uptimeYear": "98.98%",
     "time": 956,
     "timeDay": 801,
-    "timeWeek": 980,
+    "timeWeek": 978,
     "timeMonth": 965,
     "timeYear": 956,
     "dailyMinutesDown": {
