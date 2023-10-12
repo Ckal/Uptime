@@ -154,19 +154,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "99.51%",
+    "status": "degraded",
+    "uptime": "99.52%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "94.32%",
+    "uptimeYear": "99.52%",
     "time": 1130,
-    "timeDay": 1069,
-    "timeWeek": 1178,
+    "timeDay": 1072,
+    "timeWeek": 1177,
     "timeMonth": 1094,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-10-12": 37,
+      "2023-10-12": 38,
       "2023-10-11": 154,
       "2023-10-10": 45,
       "2023-10-09": 48,
@@ -186,8 +186,7 @@
       "2023-09-25": 188,
       "2023-09-24": 166,
       "2023-09-23": 148,
-      "2023-09-22": 148,
-      "2023-09-21": 17
+      "2023-09-22": 148
     }
   },
   {
@@ -244,14 +243,14 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "90.89%",
+    "uptimeDay": "91.43%",
     "uptimeWeek": "96.80%",
     "uptimeMonth": "97.36%",
     "uptimeYear": "99.19%",
     "time": 1194,
     "timeDay": 936,
     "timeWeek": 830,
-    "timeMonth": 891,
+    "timeMonth": 892,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2023-10-11": 322,
@@ -443,9 +442,9 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.29%",
     "time": 965,
     "timeDay": 898,
@@ -453,7 +452,6 @@
     "timeMonth": 939,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2023-10-12": 7,
       "2023-10-01": 27,
       "2023-09-29": 16,
       "2023-09-16": 183,
@@ -508,7 +506,7 @@
       "2023-06-16": 27,
       "2023-06-03": 16,
       "2023-06-02": 51,
-      "2023-06-01": 133
+      "2023-06-01": 148
     }
   },
   {
