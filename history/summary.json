@@ -6,9 +6,9 @@
     "slug": "bofrost-com",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "98.91%",
     "time": 639,
     "timeDay": 577,
@@ -16,7 +16,6 @@
     "timeMonth": 602,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-10-12": 7,
       "2023-10-04": 40,
       "2023-09-17": 29,
       "2023-09-09": 16,
@@ -91,18 +90,19 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.51%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "98.44%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "99.51%",
     "time": 944,
-    "timeDay": 975,
-    "timeWeek": 925,
-    "timeMonth": 955,
+    "timeDay": 996,
+    "timeWeek": 928,
+    "timeMonth": 956,
     "timeYear": 944,
     "dailyMinutesDown": {
+      "2023-10-12": 1,
       "2023-10-11": 22,
       "2023-10-09": 25,
       "2023-10-08": 18,
@@ -146,8 +146,7 @@
       "2023-08-22": 57,
       "2023-08-19": 15,
       "2023-08-18": 52,
-      "2023-08-15": 59,
-      "2023-08-13": 20
+      "2023-08-15": 59
     }
   },
   {
@@ -162,7 +161,7 @@
     "uptimeMonth": "94.28%",
     "uptimeYear": "99.51%",
     "time": 1130,
-    "timeDay": 1071,
+    "timeDay": 1068,
     "timeWeek": 1173,
     "timeMonth": 1092,
     "timeYear": 1130,
@@ -198,9 +197,9 @@
     "slug": "bofrost-nl",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 1051,
     "timeDay": 1463,
@@ -208,7 +207,6 @@
     "timeMonth": 1388,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2023-10-12": 6,
       "2023-08-15": 27,
       "2023-08-03": 32,
       "2023-07-19": 37,
@@ -236,7 +234,7 @@
       "2023-02-07": 179,
       "2023-02-06": 89,
       "2023-02-05": 198,
-      "2023-02-04": 53
+      "2023-02-04": 70
     }
   },
   {
@@ -244,18 +242,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "77.63%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "97.36%",
-    "uptimeYear": "99.19%",
+    "status": "degraded",
+    "uptime": "99.20%",
+    "uptimeDay": "77.36%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "99.20%",
     "time": 1194,
-    "timeDay": 1084,
-    "timeWeek": 843,
-    "timeMonth": 892,
+    "timeDay": 1044,
+    "timeWeek": 844,
+    "timeMonth": 893,
     "timeYear": 1194,
     "dailyMinutesDown": {
+      "2023-10-12": 4,
       "2023-10-11": 322,
       "2023-09-26": 424,
       "2023-09-25": 34,
@@ -296,7 +295,7 @@
       "2023-07-28": 198,
       "2023-07-27": 252,
       "2023-07-26": 237,
-      "2023-07-25": 235
+      "2023-07-25": 181
     }
   },
   {
@@ -443,18 +442,19 @@
     "url": "https://www.bofrost.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.fr.ico",
     "slug": "bofrost-fr",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.29%",
     "time": 965,
-    "timeDay": 845,
-    "timeWeek": 864,
+    "timeDay": 854,
+    "timeWeek": 866,
     "timeMonth": 939,
     "timeYear": 965,
     "dailyMinutesDown": {
+      "2023-10-12": 5,
       "2023-10-01": 27,
       "2023-09-29": 16,
       "2023-09-16": 183,
@@ -509,7 +509,7 @@
       "2023-06-16": 27,
       "2023-06-03": 16,
       "2023-06-02": 51,
-      "2023-06-01": 148
+      "2023-06-01": 133
     }
   },
   {
