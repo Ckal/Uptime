@@ -92,9 +92,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "97.44%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.51%",
     "time": 944,
     "timeDay": 942,
@@ -102,7 +102,7 @@
     "timeMonth": 956,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2023-10-11": 29,
+      "2023-10-11": 22,
       "2023-10-09": 25,
       "2023-10-08": 18,
       "2023-10-06": 18,
@@ -145,7 +145,8 @@
       "2023-08-22": 57,
       "2023-08-19": 15,
       "2023-08-18": 52,
-      "2023-08-15": 59
+      "2023-08-15": 59,
+      "2023-08-13": 20
     }
   },
   {
@@ -155,17 +156,17 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "88.87%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "89.32%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.51%",
     "time": 1130,
     "timeDay": 1160,
-    "timeWeek": 1176,
+    "timeWeek": 1180,
     "timeMonth": 1091,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-10-11": 161,
+      "2023-10-11": 154,
       "2023-10-10": 45,
       "2023-10-09": 48,
       "2023-10-08": 38,
@@ -185,7 +186,7 @@
       "2023-09-24": 166,
       "2023-09-23": 148,
       "2023-09-22": 148,
-      "2023-09-21": 43
+      "2023-09-21": 66
     }
   },
   {
@@ -249,7 +250,7 @@
     "time": 1194,
     "timeDay": 1006,
     "timeWeek": 808,
-    "timeMonth": 889,
+    "timeMonth": 888,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2023-10-11": 322,
@@ -441,9 +442,9 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.29%",
     "time": 965,
     "timeDay": 854,
@@ -451,7 +452,6 @@
     "timeMonth": 937,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2023-10-11": 7,
       "2023-10-01": 27,
       "2023-09-29": 16,
       "2023-09-16": 183,
@@ -506,7 +506,7 @@
       "2023-06-16": 27,
       "2023-06-03": 16,
       "2023-06-02": 51,
-      "2023-06-01": 133
+      "2023-06-01": 148
     }
   },
   {
@@ -672,7 +672,7 @@
     "time": 1245,
     "timeDay": 555,
     "timeWeek": 1031,
-    "timeMonth": 1103,
+    "timeMonth": 1105,
     "timeYear": 1245,
     "dailyMinutesDown": {
       "2023-10-04": 26,
