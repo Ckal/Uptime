@@ -154,19 +154,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "86.95%",
-    "uptimeWeek": "93.34%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "86.43%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.51%",
     "time": 1131,
-    "timeDay": 1198,
-    "timeWeek": 1193,
-    "timeMonth": 1112,
+    "timeDay": 1190,
+    "timeWeek": 1191,
+    "timeMonth": 1111,
     "timeYear": 1131,
     "dailyMinutesDown": {
-      "2023-10-14": 137,
+      "2023-10-14": 144,
       "2023-10-13": 195,
       "2023-10-12": 37,
       "2023-10-11": 154,
@@ -307,9 +307,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.04%",
     "time": 954,
     "timeDay": 975,
@@ -317,7 +317,7 @@
     "timeMonth": 937,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2023-10-14": 57,
+      "2023-10-14": 50,
       "2023-09-21": 19,
       "2023-09-13": 29,
       "2023-09-12": 15,
@@ -377,7 +377,7 @@
       "2023-05-07": 43,
       "2023-05-05": 15,
       "2023-05-04": 71,
-      "2023-05-03": 17
+      "2023-05-03": 34
     }
   },
   {
@@ -447,9 +447,9 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "90.21%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.29%",
     "time": 964,
     "timeDay": 877,
@@ -457,7 +457,7 @@
     "timeMonth": 925,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2023-10-14": 47,
+      "2023-10-14": 40,
       "2023-10-13": 109,
       "2023-10-01": 27,
       "2023-09-29": 16,
@@ -512,7 +512,8 @@
       "2023-06-18": 25,
       "2023-06-16": 27,
       "2023-06-03": 16,
-      "2023-06-02": 51
+      "2023-06-02": 51,
+      "2023-06-01": 25
     }
   },
   {
