@@ -12,7 +12,7 @@
     "uptimeYear": "98.92%",
     "time": 645,
     "timeDay": 1046,
-    "timeWeek": 931,
+    "timeWeek": 925,
     "timeMonth": 666,
     "timeYear": 645,
     "dailyMinutesDown": {
@@ -150,19 +150,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.52%",
-    "uptimeDay": "77.01%",
-    "uptimeWeek": "88.80%",
-    "uptimeMonth": "94.28%",
+    "uptimeDay": "76.91%",
+    "uptimeWeek": "88.78%",
+    "uptimeMonth": "94.32%",
     "uptimeYear": "99.52%",
     "time": 1131,
-    "timeDay": 1280,
-    "timeWeek": 1225,
-    "timeMonth": 1119,
+    "timeDay": 1283,
+    "timeWeek": 1228,
+    "timeMonth": 1120,
     "timeYear": 1131,
     "dailyMinutesDown": {
-      "2023-10-16": 67,
+      "2023-10-16": 68,
       "2023-10-15": 342,
       "2023-10-14": 243,
       "2023-10-13": 195,
@@ -181,8 +181,7 @@
       "2023-09-30": 254,
       "2023-09-29": 104,
       "2023-09-28": 177,
-      "2023-09-27": 72,
-      "2023-09-26": 20
+      "2023-09-27": 72
     }
   },
   {
@@ -304,9 +303,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.04%",
     "time": 954,
     "timeDay": 972,
@@ -314,7 +313,6 @@
     "timeMonth": 933,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2023-10-16": 7,
       "2023-10-15": 65,
       "2023-10-14": 102,
       "2023-09-21": 19,
@@ -373,7 +371,8 @@
       "2023-05-10": 20,
       "2023-05-09": 35,
       "2023-05-08": 57,
-      "2023-05-07": 43
+      "2023-05-07": 43,
+      "2023-05-05": 15
     }
   },
   {
