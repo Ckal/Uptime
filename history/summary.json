@@ -90,19 +90,19 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.55%",
-    "uptimeDay": "95.15%",
-    "uptimeWeek": "96.32%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "96.31%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "99.55%",
     "time": 943,
-    "timeDay": 921,
-    "timeWeek": 921,
-    "timeMonth": 947,
+    "timeDay": 927,
+    "timeWeek": 923,
+    "timeMonth": 948,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-10-17": 50,
+      "2023-10-17": 51,
       "2023-10-16": 93,
       "2023-10-15": 69,
       "2023-10-14": 108,
@@ -142,7 +142,7 @@
       "2023-08-30": 20,
       "2023-08-29": 159,
       "2023-08-28": 148,
-      "2023-08-27": 69
+      "2023-08-27": 52
     }
   },
   {
@@ -157,7 +157,7 @@
     "uptimeMonth": "94.19%",
     "uptimeYear": "99.51%",
     "time": 1131,
-    "timeDay": 1107,
+    "timeDay": 1114,
     "timeWeek": 1192,
     "timeMonth": 1125,
     "timeYear": 1131,
@@ -302,18 +302,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.04%",
+    "uptime": "99.03%",
+    "uptimeDay": "90.50%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.03%",
     "time": 955,
     "timeDay": 1010,
     "timeWeek": 942,
     "timeMonth": 943,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-10-17": 7,
       "2023-10-16": 137,
       "2023-10-15": 65,
       "2023-10-14": 102,
@@ -372,7 +371,7 @@
       "2023-05-11": 184,
       "2023-05-10": 20,
       "2023-05-09": 35,
-      "2023-05-08": 16
+      "2023-05-08": 39
     }
   },
   {
@@ -388,7 +387,7 @@
     "uptimeYear": "99.41%",
     "time": 1111,
     "timeDay": 1471,
-    "timeWeek": 981,
+    "timeWeek": 1020,
     "timeMonth": 1117,
     "timeYear": 1111,
     "dailyMinutesDown": {
