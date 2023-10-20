@@ -92,9 +92,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "99.54%",
     "time": 944,
     "timeDay": 1224,
@@ -102,7 +102,6 @@
     "timeMonth": 956,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2023-10-20": 7,
       "2023-10-19": 40,
       "2023-10-18": 18,
       "2023-10-17": 191,
@@ -144,7 +143,7 @@
       "2023-08-31": 49,
       "2023-08-30": 20,
       "2023-08-29": 159,
-      "2023-08-28": 85
+      "2023-08-28": 100
     }
   },
   {
@@ -152,19 +151,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "83.97%",
-    "uptimeWeek": "79.07%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "99.51%",
+    "status": "degraded",
+    "uptime": "99.52%",
+    "uptimeDay": "83.90%",
+    "uptimeWeek": "79.06%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "99.52%",
     "time": 1133,
-    "timeDay": 1254,
+    "timeDay": 1251,
     "timeWeek": 1230,
-    "timeMonth": 1145,
+    "timeMonth": 1146,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-10-20": 22,
+      "2023-10-20": 23,
       "2023-10-19": 253,
       "2023-10-18": 306,
       "2023-10-17": 388,
@@ -178,7 +177,7 @@
       "2023-10-09": 48,
       "2023-10-08": 38,
       "2023-10-07": 34,
-      "2023-10-06": 114
+      "2023-10-06": 38
     }
   },
   {
@@ -664,9 +663,9 @@
     "slug": "bofrost-es",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "80.50%",
-    "uptimeWeek": "94.27%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "79.58%",
+    "uptimeWeek": "94.14%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "99.33%",
     "time": 1235,
     "timeDay": 1064,
@@ -674,7 +673,7 @@
     "timeMonth": 1100,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2023-10-20": 220,
+      "2023-10-20": 233,
       "2023-10-19": 82,
       "2023-10-18": 16,
       "2023-10-17": 261,
