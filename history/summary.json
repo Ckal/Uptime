@@ -154,9 +154,9 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "83.35%",
-    "uptimeWeek": "79.70%",
-    "uptimeMonth": "94.27%",
+    "uptimeDay": "84.78%",
+    "uptimeWeek": "79.83%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.52%",
     "time": 1133,
     "timeDay": 1269,
@@ -164,7 +164,7 @@
     "timeMonth": 1148,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-10-20": 104,
+      "2023-10-20": 90,
       "2023-10-19": 253,
       "2023-10-18": 306,
       "2023-10-17": 388,
@@ -176,7 +176,8 @@
       "2023-10-11": 154,
       "2023-10-10": 45,
       "2023-10-09": 48,
-      "2023-10-08": 38
+      "2023-10-08": 38,
+      "2023-10-07": 18
     }
   },
   {
@@ -298,19 +299,19 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.05%",
+    "status": "degraded",
+    "uptime": "99.06%",
+    "uptimeDay": "89.33%",
+    "uptimeWeek": "94.67%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "99.06%",
     "time": 956,
-    "timeDay": 913,
+    "timeDay": 911,
     "timeWeek": 979,
     "timeMonth": 958,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2023-10-20": 90,
+      "2023-10-20": 95,
       "2023-10-19": 99,
       "2023-10-18": 23,
       "2023-10-17": 16,
@@ -367,8 +368,7 @@
       "2023-05-30": 102,
       "2023-05-26": 29,
       "2023-05-15": 19,
-      "2023-05-13": 37,
-      "2023-05-12": 25
+      "2023-05-13": 37
     }
   },
   {
@@ -438,7 +438,7 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "94.96%",
+    "uptimeDay": "95.48%",
     "uptimeWeek": "93.70%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.39%",
@@ -667,7 +667,7 @@
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.32%",
     "time": 1234,
-    "timeDay": 1017,
+    "timeDay": 1048,
     "timeWeek": 1071,
     "timeMonth": 1099,
     "timeYear": 1235,
