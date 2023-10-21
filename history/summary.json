@@ -152,19 +152,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.52%",
-    "uptimeDay": "91.97%",
-    "uptimeWeek": "79.85%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "79.84%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.52%",
     "time": 1133,
-    "timeDay": 1121,
-    "timeWeek": 1202,
-    "timeMonth": 1147,
+    "timeDay": 1127,
+    "timeWeek": 1204,
+    "timeMonth": 1148,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-10-21": 21,
+      "2023-10-21": 22,
       "2023-10-20": 117,
       "2023-10-19": 253,
       "2023-10-18": 306,
@@ -176,8 +176,7 @@
       "2023-10-12": 37,
       "2023-10-11": 154,
       "2023-10-10": 45,
-      "2023-10-09": 48,
-      "2023-10-08": 15
+      "2023-10-09": 48
     }
   },
   {
@@ -243,7 +242,7 @@
     "time": 1190,
     "timeDay": 832,
     "timeWeek": 931,
-    "timeMonth": 908,
+    "timeMonth": 907,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2023-10-18": 23,
@@ -301,9 +300,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.05%",
     "time": 956,
     "timeDay": 925,
@@ -311,7 +310,6 @@
     "timeMonth": 959,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2023-10-21": 7,
       "2023-10-20": 90,
       "2023-10-19": 99,
       "2023-10-18": 23,
@@ -369,7 +367,8 @@
       "2023-05-30": 102,
       "2023-05-26": 29,
       "2023-05-15": 19,
-      "2023-05-13": 37
+      "2023-05-13": 37,
+      "2023-05-12": 25
     }
   },
   {
@@ -668,7 +667,7 @@
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.32%",
     "time": 1233,
-    "timeDay": 1051,
+    "timeDay": 1014,
     "timeWeek": 1066,
     "timeMonth": 1097,
     "timeYear": 1235,
