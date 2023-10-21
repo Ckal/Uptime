@@ -98,7 +98,7 @@
     "uptimeYear": "99.53%",
     "time": 944,
     "timeDay": 865,
-    "timeWeek": 927,
+    "timeWeek": 926,
     "timeMonth": 952,
     "timeYear": 944,
     "dailyMinutesDown": {
@@ -152,19 +152,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.52%",
-    "uptimeDay": "88.41%",
-    "uptimeWeek": "80.12%",
-    "uptimeMonth": "94.21%",
+    "uptimeDay": "88.32%",
+    "uptimeWeek": "80.10%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.52%",
     "time": 1133,
-    "timeDay": 1079,
-    "timeWeek": 1198,
-    "timeMonth": 1147,
+    "timeDay": 1091,
+    "timeWeek": 1200,
+    "timeMonth": 1148,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-10-21": 141,
+      "2023-10-21": 142,
       "2023-10-20": 117,
       "2023-10-19": 253,
       "2023-10-18": 306,
@@ -174,7 +174,7 @@
       "2023-10-14": 243,
       "2023-10-13": 195,
       "2023-10-12": 37,
-      "2023-10-11": 154
+      "2023-10-11": 133
     }
   },
   {
@@ -298,17 +298,16 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "99.05%",
     "time": 955,
     "timeDay": 925,
-    "timeWeek": 971,
+    "timeWeek": 970,
     "timeMonth": 958,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2023-10-21": 8,
       "2023-10-20": 90,
       "2023-10-19": 99,
       "2023-10-18": 23,
@@ -366,7 +365,8 @@
       "2023-05-30": 102,
       "2023-05-26": 29,
       "2023-05-15": 19,
-      "2023-05-13": 37
+      "2023-05-13": 37,
+      "2023-05-12": 25
     }
   },
   {
@@ -441,7 +441,7 @@
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.39%",
     "time": 967,
-    "timeDay": 2127,
+    "timeDay": 2285,
     "timeWeek": 1017,
     "timeMonth": 963,
     "timeYear": 967,
