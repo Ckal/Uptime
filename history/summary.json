@@ -90,19 +90,19 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "95.72%",
+    "status": "degraded",
+    "uptime": "99.54%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "95.71%",
     "uptimeMonth": "97.09%",
     "uptimeYear": "99.53%",
     "time": 944,
-    "timeDay": 1159,
-    "timeWeek": 970,
-    "timeMonth": 952,
+    "timeDay": 1182,
+    "timeWeek": 973,
+    "timeMonth": 953,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2023-10-22": 20,
+      "2023-10-22": 21,
       "2023-10-20": 71,
       "2023-10-19": 40,
       "2023-10-18": 18,
@@ -145,7 +145,7 @@
       "2023-08-31": 49,
       "2023-08-30": 20,
       "2023-08-29": 159,
-      "2023-08-28": 60
+      "2023-08-28": 40
     }
   },
   {
@@ -161,7 +161,7 @@
     "uptimeYear": "99.53%",
     "time": 1133,
     "timeDay": 1055,
-    "timeWeek": 1185,
+    "timeWeek": 1184,
     "timeMonth": 1155,
     "timeYear": 1133,
     "dailyMinutesDown": {
@@ -443,7 +443,7 @@
     "uptimeYear": "99.39%",
     "time": 967,
     "timeDay": 1164,
-    "timeWeek": 1057,
+    "timeWeek": 1053,
     "timeMonth": 966,
     "timeYear": 967,
     "dailyMinutesDown": {
@@ -661,17 +661,16 @@
     "slug": "bofrost-es",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "93.68%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "99.32%",
     "time": 1232,
     "timeDay": 1040,
     "timeWeek": 1066,
-    "timeMonth": 1091,
+    "timeMonth": 1093,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2023-10-22": 8,
       "2023-10-20": 271,
       "2023-10-19": 82,
       "2023-10-18": 16,
@@ -751,7 +750,8 @@
       "2022-11-02": 20,
       "2022-10-30": 18,
       "2022-10-29": 29,
-      "2022-10-27": 44
+      "2022-10-27": 44,
+      "2022-10-26": 25
     }
   }
 ]
