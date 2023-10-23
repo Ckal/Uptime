@@ -93,17 +93,17 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "95.66%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "99.53%",
     "time": 944,
-    "timeDay": 1198,
-    "timeWeek": 977,
-    "timeMonth": 952,
+    "timeDay": 1241,
+    "timeWeek": 982,
+    "timeMonth": 953,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2023-10-23": 28,
+      "2023-10-23": 17,
       "2023-10-22": 35,
       "2023-10-20": 71,
       "2023-10-19": 40,
@@ -146,7 +146,8 @@
       "2023-09-01": 120,
       "2023-08-31": 49,
       "2023-08-30": 20,
-      "2023-08-29": 159
+      "2023-08-29": 159,
+      "2023-08-28": 18
     }
   },
   {
@@ -154,19 +155,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.54%",
-    "uptimeDay": "83.62%",
-    "uptimeWeek": "82.56%",
-    "uptimeMonth": "94.44%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "82.78%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.54%",
     "time": 1133,
-    "timeDay": 1060,
-    "timeWeek": 1182,
-    "timeMonth": 1156,
+    "timeDay": 1076,
+    "timeWeek": 1181,
+    "timeMonth": 1157,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-10-23": 100,
+      "2023-10-23": 101,
       "2023-10-22": 223,
       "2023-10-21": 158,
       "2023-10-20": 117,
@@ -175,7 +176,7 @@
       "2023-10-17": 388,
       "2023-10-16": 358,
       "2023-10-15": 342,
-      "2023-10-14": 189
+      "2023-10-14": 171
     }
   },
   {
@@ -305,8 +306,8 @@
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.05%",
     "time": 955,
-    "timeDay": 860,
-    "timeWeek": 970,
+    "timeDay": 855,
+    "timeWeek": 968,
     "timeMonth": 943,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -444,7 +445,7 @@
     "uptimeYear": "99.39%",
     "time": 967,
     "timeDay": 765,
-    "timeWeek": 1075,
+    "timeWeek": 1081,
     "timeMonth": 965,
     "timeYear": 967,
     "dailyMinutesDown": {
