@@ -87,18 +87,19 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.51%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "98.77%",
     "uptimeWeek": "95.72%",
-    "uptimeMonth": "96.89%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "99.50%",
     "time": 944,
-    "timeDay": 925,
-    "timeWeek": 928,
+    "timeDay": 928,
+    "timeWeek": 929,
     "timeMonth": 943,
     "timeYear": 944,
     "dailyMinutesDown": {
+      "2023-10-28": 0,
       "2023-10-27": 38,
       "2023-10-26": 21,
       "2023-10-25": 285,
@@ -144,7 +145,7 @@
       "2023-09-03": 60,
       "2023-09-02": 99,
       "2023-09-01": 120,
-      "2023-08-31": 49
+      "2023-08-31": 34
     }
   },
   {
@@ -154,17 +155,16 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "90.82%",
-    "uptimeMonth": "94.73%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "90.97%",
+    "uptimeMonth": "94.69%",
     "uptimeYear": "99.56%",
     "time": 1133,
     "timeDay": 1089,
-    "timeWeek": 1133,
+    "timeWeek": 1134,
     "timeMonth": 1164,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-10-28": 7,
       "2023-10-27": 35,
       "2023-10-26": 98,
       "2023-10-25": 58,
@@ -176,7 +176,7 @@
       "2023-10-19": 253,
       "2023-10-18": 306,
       "2023-10-17": 388,
-      "2023-10-16": 271
+      "2023-10-16": 291
     }
   },
   {
@@ -242,7 +242,7 @@
     "uptimeYear": "99.08%",
     "time": 1189,
     "timeDay": 1138,
-    "timeWeek": 971,
+    "timeWeek": 982,
     "timeMonth": 920,
     "timeYear": 1190,
     "dailyMinutesDown": {
@@ -308,7 +308,7 @@
     "uptimeMonth": "98.04%",
     "uptimeYear": "99.01%",
     "time": 955,
-    "timeDay": 996,
+    "timeDay": 1013,
     "timeWeek": 953,
     "timeMonth": 948,
     "timeYear": 956,
@@ -447,7 +447,7 @@
     "time": 971,
     "timeDay": 969,
     "timeWeek": 1163,
-    "timeMonth": 1013,
+    "timeMonth": 1012,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2023-10-27": 17,
@@ -670,7 +670,7 @@
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.33%",
     "time": 1229,
-    "timeDay": 1071,
+    "timeDay": 1052,
     "timeWeek": 1057,
     "timeMonth": 1057,
     "timeYear": 1233,
