@@ -91,9 +91,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "87.61%",
-    "uptimeWeek": "90.55%",
-    "uptimeMonth": "95.19%",
+    "uptimeDay": "87.15%",
+    "uptimeWeek": "90.49%",
+    "uptimeMonth": "95.18%",
     "uptimeYear": "99.43%",
     "time": 948,
     "timeDay": 966,
@@ -101,7 +101,7 @@
     "timeMonth": 982,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2023-11-05": 179,
+      "2023-11-05": 185,
       "2023-11-04": 62,
       "2023-11-03": 38,
       "2023-11-02": 109,
@@ -150,9 +150,9 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "76.34%",
-    "uptimeWeek": "78.21%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "77.25%",
+    "uptimeWeek": "78.28%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "99.47%",
     "time": 1135,
     "timeDay": 1228,
@@ -160,7 +160,7 @@
     "timeMonth": 1185,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2023-11-05": 247,
+      "2023-11-05": 240,
       "2023-11-04": 483,
       "2023-11-03": 359,
       "2023-11-02": 384,
@@ -172,7 +172,7 @@
       "2023-10-27": 35,
       "2023-10-26": 98,
       "2023-10-25": 58,
-      "2023-10-24": 229
+      "2023-10-24": 248
     }
   },
   {
@@ -298,19 +298,19 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.97%",
-    "uptimeDay": "69.38%",
-    "uptimeWeek": "90.34%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "69.13%",
+    "uptimeWeek": "90.31%",
+    "uptimeMonth": "95.81%",
     "uptimeYear": "98.92%",
     "time": 959,
-    "timeDay": 1094,
-    "timeWeek": 978,
-    "timeMonth": 975,
+    "timeDay": 1112,
+    "timeWeek": 981,
+    "timeMonth": 976,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2023-11-05": 381,
+      "2023-11-05": 385,
       "2023-11-04": 246,
       "2023-11-02": 23,
       "2023-11-01": 58,
@@ -369,7 +369,7 @@
       "2023-07-02": 356,
       "2023-07-01": 34,
       "2023-06-29": 33,
-      "2023-06-28": 64
+      "2023-06-28": 48
     }
   },
   {
