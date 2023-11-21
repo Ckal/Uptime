@@ -96,7 +96,7 @@
     "uptimeYear": "99.16%",
     "time": 949,
     "timeDay": 1019,
-    "timeWeek": 931,
+    "timeWeek": 932,
     "timeMonth": 992,
     "timeYear": 950,
     "dailyMinutesDown": {
@@ -136,26 +136,26 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "75.83%",
-    "uptimeWeek": "71.81%",
-    "uptimeMonth": "93.51%",
-    "uptimeYear": "99.46%",
+    "status": "degraded",
+    "uptime": "99.52%",
+    "uptimeDay": "75.85%",
+    "uptimeWeek": "72.75%",
+    "uptimeMonth": "93.73%",
+    "uptimeYear": "99.48%",
     "time": 1149,
-    "timeDay": 1154,
-    "timeWeek": 1317,
+    "timeDay": 1162,
+    "timeWeek": 1319,
     "timeMonth": 1256,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2023-11-21": 16,
+      "2023-11-21": 17,
       "2023-11-20": 405,
       "2023-11-19": 415,
       "2023-11-18": 265,
       "2023-11-17": 445,
       "2023-11-16": 559,
       "2023-11-15": 376,
-      "2023-11-14": 359
+      "2023-11-14": 263
     }
   },
   {
@@ -504,7 +504,7 @@
     "status": "up",
     "uptime": "97.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "14.42%",
+    "uptimeWeek": "14.72%",
     "uptimeMonth": "62.22%",
     "uptimeYear": "96.79%",
     "time": 780,
@@ -626,9 +626,9 @@
     "slug": "bofrost-es",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "89.26%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "92.73%",
+    "uptimeDay": "90.01%",
+    "uptimeWeek": "91.17%",
+    "uptimeMonth": "92.75%",
     "uptimeYear": "98.99%",
     "time": 1204,
     "timeDay": 1125,
@@ -636,7 +636,7 @@
     "timeMonth": 1131,
     "timeYear": 1208,
     "dailyMinutesDown": {
-      "2023-11-21": 35,
+      "2023-11-21": 24,
       "2023-11-20": 143,
       "2023-11-19": 98,
       "2023-11-17": 221,
@@ -700,7 +700,8 @@
       "2023-02-12": 56,
       "2023-02-10": 79,
       "2023-02-09": 59,
-      "2023-02-02": 58
+      "2023-02-02": 58,
+      "2023-02-01": 16
     }
   }
 ]
