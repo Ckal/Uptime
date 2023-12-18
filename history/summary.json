@@ -93,17 +93,16 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "92.43%",
-    "uptimeMonth": "89.26%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.49%",
+    "uptimeMonth": "89.28%",
+    "uptimeYear": "98.83%",
     "time": 948,
     "timeDay": 943,
     "timeWeek": 1035,
     "timeMonth": 926,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2023-12-18": 7,
       "2023-12-17": 27,
       "2023-12-16": 58,
       "2023-12-13": 643,
@@ -135,7 +134,7 @@
       "2023-11-13": 127,
       "2023-11-12": 269,
       "2023-11-11": 90,
-      "2023-11-10": 182
+      "2023-11-10": 230
     }
   },
   {
@@ -143,19 +142,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "82.37%",
-    "uptimeWeek": "77.98%",
-    "uptimeMonth": "93.64%",
-    "uptimeYear": "99.47%",
+    "status": "degraded",
+    "uptime": "99.55%",
+    "uptimeDay": "82.30%",
+    "uptimeWeek": "77.97%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "99.48%",
     "time": 1161,
-    "timeDay": 1162,
+    "timeDay": 1160,
     "timeWeek": 1131,
     "timeMonth": 1216,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2023-12-18": 23,
+      "2023-12-18": 24,
       "2023-12-17": 278,
       "2023-12-16": 259,
       "2023-12-15": 225,
@@ -165,7 +164,7 @@
       "2023-12-11": 350,
       "2023-12-10": 306,
       "2023-12-09": 149,
-      "2023-12-08": 80
+      "2023-12-08": 51
     }
   },
   {
@@ -494,7 +493,7 @@
     "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.37%",
+    "uptimeMonth": "93.39%",
     "uptimeYear": "96.79%",
     "time": 770,
     "timeDay": 488,
@@ -544,7 +543,7 @@
     "timeMonth": 1244,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2023-12-18": 227,
+      "2023-12-18": 234,
       "2023-12-17": 1440,
       "2023-12-16": 57,
       "2023-12-13": 1389,
