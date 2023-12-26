@@ -154,8 +154,8 @@
     "uptimeYear": "99.40%",
     "time": 1163,
     "timeDay": 890,
-    "timeWeek": 1136,
-    "timeMonth": 1178,
+    "timeWeek": 1139,
+    "timeMonth": 1179,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2023-12-22": 308,
@@ -324,7 +324,7 @@
     "uptimeYear": "99.38%",
     "time": 1055,
     "timeDay": 887,
-    "timeWeek": 1055,
+    "timeWeek": 1056,
     "timeMonth": 1182,
     "timeYear": 1058,
     "dailyMinutesDown": {
@@ -405,7 +405,7 @@
     "time": 970,
     "timeDay": 303,
     "timeWeek": 865,
-    "timeMonth": 930,
+    "timeMonth": 931,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2023-12-22": 92,
@@ -501,10 +501,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.it.ico",
     "slug": "bofrost-it",
     "status": "up",
-    "uptime": "96.82%",
+    "uptime": "96.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.38%",
-    "uptimeMonth": "93.41%",
+    "uptimeWeek": "71.25%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "96.24%",
     "time": 767,
     "timeDay": 468,
@@ -512,7 +512,7 @@
     "timeMonth": 603,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-12-26": 816,
+      "2023-12-26": 830,
       "2023-12-25": 1440,
       "2023-12-24": 628,
       "2023-11-20": 250,
@@ -637,19 +637,19 @@
     "url": "https://www.bofrost.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.es.ico",
     "slug": "bofrost-es",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "87.40%",
-    "uptimeWeek": "88.89%",
-    "uptimeMonth": "92.71%",
+    "uptimeDay": "87.82%",
+    "uptimeWeek": "88.95%",
+    "uptimeMonth": "92.75%",
     "uptimeYear": "99.27%",
     "time": 1185,
-    "timeDay": 1183,
-    "timeWeek": 1153,
-    "timeMonth": 1156,
+    "timeDay": 1174,
+    "timeWeek": 1152,
+    "timeMonth": 1155,
     "timeYear": 1183,
     "dailyMinutesDown": {
-      "2023-12-26": 124,
+      "2023-12-26": 118,
       "2023-12-25": 173,
       "2023-12-24": 143,
       "2023-12-23": 107,
@@ -685,7 +685,7 @@
       "2023-11-23": 86,
       "2023-11-22": 11,
       "2023-11-21": 253,
-      "2023-11-20": 120
+      "2023-11-20": 143
     }
   }
 ]
