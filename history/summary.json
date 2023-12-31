@@ -160,7 +160,7 @@
     "time": 1164,
     "timeDay": 690,
     "timeWeek": 969,
-    "timeMonth": 1159,
+    "timeMonth": 1158,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2023-12-27": 1000,
@@ -249,7 +249,7 @@
     "time": 1195,
     "timeDay": 502,
     "timeWeek": 872,
-    "timeMonth": 934,
+    "timeMonth": 936,
     "timeYear": 1198,
     "dailyMinutesDown": {
       "2023-12-22": 504,
@@ -330,9 +330,9 @@
     "uptimeMonth": "92.44%",
     "uptimeYear": "99.37%",
     "time": 1052,
-    "timeDay": 906,
+    "timeDay": 894,
     "timeWeek": 934,
-    "timeMonth": 1124,
+    "timeMonth": 1125,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2023-12-31": 138,
@@ -416,7 +416,7 @@
     "time": 970,
     "timeDay": 402,
     "timeWeek": 485,
-    "timeMonth": 908,
+    "timeMonth": 910,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2023-12-22": 92,
@@ -512,10 +512,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.it.ico",
     "slug": "bofrost-it",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.46%",
+    "uptimeMonth": "76.41%",
     "uptimeYear": "94.83%",
     "time": 764,
     "timeDay": 423,
@@ -523,7 +523,7 @@
     "timeMonth": 482,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-12-31": 1044,
+      "2023-12-31": 1067,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -652,19 +652,19 @@
     "url": "https://www.bofrost.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.es.ico",
     "slug": "bofrost-es",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "90.72%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "99.27%",
+    "status": "degraded",
+    "uptime": "99.40%",
+    "uptimeDay": "94.38%",
+    "uptimeWeek": "90.65%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "99.28%",
     "time": 1184,
-    "timeDay": 1121,
-    "timeWeek": 1151,
+    "timeDay": 1131,
+    "timeWeek": 1152,
     "timeMonth": 1151,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2023-12-31": 75,
+      "2023-12-31": 82,
       "2023-12-29": 41,
       "2023-12-28": 294,
       "2023-12-27": 165,
@@ -698,7 +698,7 @@
       "2023-11-29": 74,
       "2023-11-28": 118,
       "2023-11-27": 294,
-      "2023-11-26": 217
+      "2023-11-26": 164
     }
   }
 ]
