@@ -93,15 +93,15 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.61%",
-    "uptimeDay": "83.18%",
+    "uptimeDay": "83.15%",
     "uptimeWeek": "97.20%",
     "uptimeMonth": "89.03%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 949,
-    "timeDay": 780,
-    "timeWeek": 851,
+    "timeDay": 807,
+    "timeWeek": 854,
     "timeMonth": 944,
     "timeYear": 950,
     "dailyMinutesDown": {
@@ -147,7 +147,7 @@
       "2023-11-16": 157,
       "2023-11-15": 189,
       "2023-11-14": 156,
-      "2023-11-13": 79
+      "2023-11-13": 36
     }
   },
   {
@@ -336,9 +336,9 @@
     "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
     "time": 1049,
-    "timeDay": 998,
-    "timeWeek": 946,
-    "timeMonth": 1079,
+    "timeDay": 1006,
+    "timeWeek": 944,
+    "timeMonth": 1080,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2024-01-05": 51,
@@ -525,15 +525,15 @@
     "uptime": "94.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.57%",
-    "uptimeYear": "93.51%",
+    "uptimeMonth": "60.49%",
+    "uptimeYear": "93.50%",
     "time": 761,
     "timeDay": 448,
     "timeWeek": 479,
     "timeMonth": 488,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2024-01-05": 802,
+      "2024-01-05": 837,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -669,17 +669,17 @@
     "slug": "bofrost-es",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "82.36%",
-    "uptimeWeek": "95.48%",
-    "uptimeMonth": "93.04%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "83.08%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "93.06%",
+    "uptimeYear": "99.35%",
     "time": 1182,
-    "timeDay": 1137,
+    "timeDay": 1140,
     "timeWeek": 1139,
     "timeMonth": 1148,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2024-01-05": 46,
+      "2024-01-05": 36,
       "2024-01-04": 242,
       "2024-01-03": 43,
       "2024-01-01": 16,
@@ -711,7 +711,7 @@
       "2023-12-05": 99,
       "2023-12-04": 138,
       "2023-12-03": 20,
-      "2023-12-02": 83
+      "2023-12-02": 102
     }
   }
 ]
