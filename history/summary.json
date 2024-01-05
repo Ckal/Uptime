@@ -329,19 +329,19 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.50%",
-    "uptimeDay": "93.21%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.39%",
     "time": 1049,
-    "timeDay": 1006,
-    "timeWeek": 944,
+    "timeDay": 999,
+    "timeWeek": 945,
     "timeMonth": 1079,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2024-01-05": 51,
+      "2024-01-05": 55,
       "2024-01-04": 111,
       "2024-01-03": 32,
       "2024-01-02": 71,
@@ -358,7 +358,7 @@
       "2023-12-22": 381,
       "2023-12-21": 455,
       "2023-12-20": 548,
-      "2023-12-19": 560
+      "2023-12-19": 534
     }
   },
   {
@@ -419,9 +419,9 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "99.02%",
     "time": 970,
     "timeDay": 791,
@@ -429,7 +429,6 @@
     "timeMonth": 905,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2024-01-05": 10,
       "2024-01-03": 15,
       "2023-12-22": 92,
       "2023-12-21": 144,
@@ -468,7 +467,7 @@
       "2023-11-10": 68,
       "2023-11-09": 277,
       "2023-11-08": 248,
-      "2023-11-07": 221
+      "2023-11-07": 247
     }
   },
   {
@@ -526,15 +525,15 @@
     "uptime": "94.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.44%",
-    "uptimeYear": "93.50%",
+    "uptimeMonth": "60.41%",
+    "uptimeYear": "93.49%",
     "time": 761,
     "timeDay": 448,
     "timeWeek": 479,
     "timeMonth": 488,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2024-01-05": 863,
+      "2024-01-05": 872,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
