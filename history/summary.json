@@ -167,7 +167,7 @@
     "time": 1164,
     "timeDay": 1557,
     "timeWeek": 929,
-    "timeMonth": 1039,
+    "timeMonth": 1041,
     "timeYear": 1167,
     "dailyMinutesDown": {
       "2024-01-17": 26,
@@ -346,9 +346,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "94.82%",
-    "uptimeMonth": "94.10%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.51%",
     "time": 1039,
     "timeDay": 867,
@@ -356,7 +356,7 @@
     "timeMonth": 954,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2024-01-28": 31,
+      "2024-01-28": 24,
       "2024-01-27": 20,
       "2024-01-26": 37,
       "2024-01-25": 40,
@@ -382,7 +382,7 @@
       "2024-01-05": 144,
       "2024-01-04": 111,
       "2024-01-03": 32,
-      "2024-01-02": 36
+      "2024-01-02": 54
     }
   },
   {
@@ -556,8 +556,8 @@
     "status": "up",
     "uptime": "91.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.16%",
-    "uptimeMonth": "15.16%",
+    "uptimeWeek": "74.54%",
+    "uptimeMonth": "15.25%",
     "uptimeYear": "88.70%",
     "time": 754,
     "timeDay": 380,
@@ -719,19 +719,19 @@
     "url": "https://www.bofrost.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.es.ico",
     "slug": "bofrost-es",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.35%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "94.94%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "99.17%",
     "time": 1173,
-    "timeDay": 1088,
-    "timeWeek": 1070,
+    "timeDay": 1099,
+    "timeWeek": 1074,
     "timeMonth": 1125,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-01-28": 24,
+      "2024-01-28": 30,
       "2024-01-24": 53,
       "2024-01-23": 39,
       "2024-01-22": 114,
@@ -769,7 +769,7 @@
       "2023-12-14": 33,
       "2023-12-13": 64,
       "2023-12-12": 171,
-      "2023-12-11": 80
+      "2023-12-11": 64
     }
   }
 ]
