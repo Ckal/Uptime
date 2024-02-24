@@ -163,17 +163,17 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "92.14%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "92.13%",
     "uptimeYear": "97.91%",
     "time": 1171,
-    "timeDay": 845,
-    "timeWeek": 939,
-    "timeMonth": 965,
+    "timeDay": 831,
+    "timeWeek": 934,
+    "timeMonth": 964,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2024-02-24": 42,
+      "2024-02-24": 50,
       "2024-02-23": 16,
       "2024-02-22": 25,
       "2024-02-21": 105,
@@ -203,7 +203,7 @@
       "2023-12-18": 379,
       "2023-12-17": 278,
       "2023-12-16": 259,
-      "2023-12-15": 68
+      "2023-12-15": 42
     }
   },
   {
@@ -266,9 +266,9 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "96.28%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "74.86%",
-    "uptimeMonth": "68.27%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "75.08%",
+    "uptimeMonth": "68.29%",
     "uptimeYear": "94.97%",
     "time": 1199,
     "timeDay": 1015,
@@ -276,7 +276,6 @@
     "timeMonth": 894,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2024-02-24": 9,
       "2024-02-23": 23,
       "2024-02-21": 202,
       "2024-02-20": 105,
@@ -355,7 +354,8 @@
       "2023-09-05": 72,
       "2023-09-04": 16,
       "2023-09-02": 17,
-      "2023-08-28": 15
+      "2023-08-28": 15,
+      "2023-08-24": 20
     }
   },
   {
@@ -370,7 +370,7 @@
     "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 1037,
-    "timeDay": 908,
+    "timeDay": 890,
     "timeWeek": 946,
     "timeMonth": 968,
     "timeYear": 1039,
@@ -396,8 +396,8 @@
     "status": "up",
     "uptime": "98.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.41%",
-    "uptimeMonth": "89.44%",
+    "uptimeWeek": "54.28%",
+    "uptimeMonth": "89.41%",
     "uptimeYear": "98.84%",
     "time": 1111,
     "timeDay": 397,
@@ -405,7 +405,7 @@
     "timeMonth": 685,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2024-02-24": 925,
+      "2024-02-24": 939,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 790,
