@@ -86,15 +86,15 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.44%",
-    "uptimeDay": "96.67%",
+    "uptimeDay": "96.64%",
     "uptimeWeek": "95.32%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "97.89%",
     "time": 952,
     "timeDay": 880,
-    "timeWeek": 943,
+    "timeWeek": 944,
     "timeMonth": 910,
     "timeYear": 953,
     "dailyMinutesDown": {
@@ -153,7 +153,7 @@
       "2023-11-27": 165,
       "2023-11-26": 177,
       "2023-11-25": 115,
-      "2023-11-24": 228
+      "2023-11-24": 212
     }
   },
   {
@@ -168,7 +168,7 @@
     "uptimeMonth": "92.14%",
     "uptimeYear": "97.91%",
     "time": 1171,
-    "timeDay": 689,
+    "timeDay": 721,
     "timeWeek": 927,
     "timeMonth": 959,
     "timeYear": 1171,
@@ -266,9 +266,9 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "96.28%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "86.26%",
-    "uptimeMonth": "68.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.40%",
+    "uptimeMonth": "68.29%",
     "uptimeYear": "94.97%",
     "time": 1199,
     "timeDay": 923,
@@ -276,7 +276,6 @@
     "timeMonth": 896,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2024-02-25": 7,
       "2024-02-23": 23,
       "2024-02-21": 202,
       "2024-02-20": 105,
@@ -355,7 +354,8 @@
       "2023-09-05": 72,
       "2023-09-04": 16,
       "2023-09-02": 17,
-      "2023-08-28": 15
+      "2023-08-28": 15,
+      "2023-08-24": 20
     }
   },
   {
@@ -396,16 +396,16 @@
     "status": "up",
     "uptime": "98.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.03%",
-    "uptimeMonth": "86.82%",
-    "uptimeYear": "98.63%",
+    "uptimeWeek": "42.96%",
+    "uptimeMonth": "86.80%",
+    "uptimeYear": "98.62%",
     "time": 1111,
     "timeDay": 525,
     "timeWeek": 611,
     "timeMonth": 686,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2024-02-25": 633,
+      "2024-02-25": 639,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
