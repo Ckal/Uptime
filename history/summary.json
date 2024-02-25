@@ -163,9 +163,9 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "92.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "92.14%",
     "uptimeYear": "97.91%",
     "time": 1171,
     "timeDay": 950,
@@ -173,7 +173,6 @@
     "timeMonth": 962,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2024-02-25": 9,
       "2024-02-24": 42,
       "2024-02-23": 16,
       "2024-02-22": 25,
@@ -204,7 +203,7 @@
       "2023-12-18": 379,
       "2023-12-17": 278,
       "2023-12-16": 259,
-      "2023-12-15": 42
+      "2023-12-15": 68
     }
   },
   {
@@ -268,7 +267,7 @@
     "status": "up",
     "uptime": "96.29%",
     "uptimeDay": "98.66%",
-    "uptimeWeek": "93.23%",
+    "uptimeWeek": "93.35%",
     "uptimeMonth": "68.24%",
     "uptimeYear": "94.97%",
     "time": 1199,
@@ -397,8 +396,8 @@
     "status": "up",
     "uptime": "98.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "35.92%",
-    "uptimeMonth": "85.18%",
+    "uptimeWeek": "35.81%",
+    "uptimeMonth": "85.16%",
     "uptimeYear": "98.49%",
     "time": 1111,
     "timeDay": 525,
@@ -406,7 +405,7 @@
     "timeMonth": 686,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2024-02-25": 1348,
+      "2024-02-25": 1360,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -731,19 +730,19 @@
     "url": "https://www.bofrost.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.es.ico",
     "slug": "bofrost-es",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "96.69%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "96.70%",
     "uptimeYear": "99.03%",
     "time": 1163,
-    "timeDay": 1183,
-    "timeWeek": 1131,
-    "timeMonth": 1103,
+    "timeDay": 1147,
+    "timeWeek": 1128,
+    "timeMonth": 1102,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2024-02-25": 31,
+      "2024-02-25": 25,
       "2024-02-24": 0,
       "2024-02-23": 35,
       "2024-02-21": 42,
@@ -792,7 +791,7 @@
       "2023-12-23": 107,
       "2023-12-22": 111,
       "2023-12-21": 388,
-      "2023-12-20": 21
+      "2023-12-20": 36
     }
   }
 ]
