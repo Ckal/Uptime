@@ -265,19 +265,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "96.25%",
-    "uptimeDay": "79.43%",
-    "uptimeWeek": "93.77%",
-    "uptimeMonth": "67.61%",
-    "uptimeYear": "94.92%",
+    "status": "degraded",
+    "uptime": "96.26%",
+    "uptimeDay": "79.19%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "67.60%",
+    "uptimeYear": "94.93%",
     "time": 1199,
-    "timeDay": 935,
-    "timeWeek": 924,
+    "timeDay": 944,
+    "timeWeek": 923,
     "timeMonth": 902,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2024-02-26": 242,
+      "2024-02-26": 245,
       "2024-02-25": 54,
       "2024-02-23": 23,
       "2024-02-21": 202,
@@ -354,8 +354,7 @@
       "2023-09-09": 441,
       "2023-09-08": 57,
       "2023-09-06": 366,
-      "2023-09-05": 72,
-      "2023-09-04": 16
+      "2023-09-05": 72
     }
   },
   {
@@ -396,8 +395,8 @@
     "status": "up",
     "uptime": "98.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.49%",
-    "uptimeMonth": "84.39%",
+    "uptimeWeek": "32.16%",
+    "uptimeMonth": "84.32%",
     "uptimeYear": "98.42%",
     "time": 1110,
     "timeDay": 623,
@@ -405,7 +404,7 @@
     "timeMonth": 686,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2024-02-26": 255,
+      "2024-02-26": 288,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
@@ -644,7 +643,7 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "95.75%",
     "time": 1414,
-    "timeDay": 1939,
+    "timeDay": 1254,
     "timeWeek": 2216,
     "timeMonth": 2063,
     "timeYear": 1541,
@@ -733,9 +732,9 @@
     "slug": "bofrost-es",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "96.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "96.70%",
     "uptimeYear": "99.03%",
     "time": 1163,
     "timeDay": 1092,
@@ -743,7 +742,6 @@
     "timeMonth": 1101,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2024-02-26": 9,
       "2024-02-25": 25,
       "2024-02-24": 0,
       "2024-02-23": 35,
@@ -793,7 +791,7 @@
       "2023-12-23": 107,
       "2023-12-22": 111,
       "2023-12-21": 388,
-      "2023-12-20": 21
+      "2023-12-20": 36
     }
   }
 ]
