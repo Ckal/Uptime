@@ -168,17 +168,17 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "84.25%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "85.35%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "97.85%",
     "time": 1168,
-    "timeDay": 978,
+    "timeDay": 988,
     "timeWeek": 992,
     "timeMonth": 965,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2024-03-10": 83,
+      "2024-03-10": 69,
       "2024-03-09": 299,
       "2024-03-07": 34,
       "2024-03-06": 82,
@@ -213,7 +213,8 @@
       "2023-12-21": 245,
       "2023-12-20": 273,
       "2023-12-19": 330,
-      "2023-12-18": 379
+      "2023-12-18": 379,
+      "2023-12-17": 18
     }
   },
   {
@@ -752,18 +753,19 @@
     "url": "https://www.bofrost.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.es.ico",
     "slug": "bofrost-es",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "99.01%",
     "time": 1161,
-    "timeDay": 1144,
-    "timeWeek": 1160,
-    "timeMonth": 1127,
+    "timeDay": 1156,
+    "timeWeek": 1161,
+    "timeMonth": 1128,
     "timeYear": 1165,
     "dailyMinutesDown": {
+      "2024-03-10": 5,
       "2024-03-09": 15,
       "2024-03-07": 60,
       "2024-03-06": 133,
@@ -817,8 +819,7 @@
       "2023-12-27": 165,
       "2023-12-26": 118,
       "2023-12-25": 173,
-      "2023-12-24": 143,
-      "2023-12-23": 21
+      "2023-12-24": 143
     }
   }
 ]
