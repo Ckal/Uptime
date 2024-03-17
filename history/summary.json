@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "96.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "96.10%",
     "time": 680,
@@ -87,9 +87,9 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "82.00%",
-    "uptimeWeek": "86.75%",
-    "uptimeMonth": "93.25%",
+    "uptimeDay": "83.66%",
+    "uptimeWeek": "86.84%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "98.72%",
     "time": 950,
     "timeDay": 923,
@@ -97,7 +97,7 @@
     "timeMonth": 912,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2024-03-17": 127,
+      "2024-03-17": 118,
       "2024-03-16": 188,
       "2024-03-15": 103,
       "2024-03-14": 157,
@@ -140,7 +140,8 @@
       "2024-01-08": 58,
       "2024-01-06": 77,
       "2024-01-05": 208,
-      "2024-01-04": 52
+      "2024-01-04": 52,
+      "2024-01-03": 17
     }
   },
   {
@@ -263,19 +264,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "96.61%",
-    "uptimeDay": "87.51%",
-    "uptimeWeek": "91.27%",
-    "uptimeMonth": "90.67%",
-    "uptimeYear": "95.22%",
+    "status": "degraded",
+    "uptime": "96.63%",
+    "uptimeDay": "87.33%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "90.70%",
+    "uptimeYear": "95.24%",
     "time": 1182,
-    "timeDay": 995,
-    "timeWeek": 912,
+    "timeDay": 988,
+    "timeWeek": 911,
     "timeMonth": 916,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2024-03-17": 180,
+      "2024-03-17": 183,
       "2024-03-15": 143,
       "2024-03-14": 188,
       "2024-03-13": 280,
@@ -341,8 +342,7 @@
       "2023-11-11": 57,
       "2023-11-09": 102,
       "2023-11-07": 28,
-      "2023-11-06": 164,
-      "2023-11-05": 36
+      "2023-11-06": 94
     }
   },
   {
@@ -357,9 +357,9 @@
     "uptimeMonth": "92.98%",
     "uptimeYear": "99.41%",
     "time": 1043,
-    "timeDay": 1284,
-    "timeWeek": 1216,
-    "timeMonth": 1064,
+    "timeDay": 1293,
+    "timeWeek": 1217,
+    "timeMonth": 1065,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2024-03-17": 381,
