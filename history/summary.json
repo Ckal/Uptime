@@ -84,19 +84,19 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.11%",
-    "uptimeDay": "84.10%",
-    "uptimeWeek": "86.85%",
+    "uptimeDay": "84.06%",
+    "uptimeWeek": "86.84%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "98.75%",
     "time": 950,
-    "timeDay": 945,
-    "timeWeek": 913,
-    "timeMonth": 916,
+    "timeDay": 971,
+    "timeWeek": 916,
+    "timeMonth": 917,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2024-03-18": 142,
+      "2024-03-18": 143,
       "2024-03-17": 133,
       "2024-03-16": 188,
       "2024-03-15": 103,
@@ -138,7 +138,7 @@
       "2024-01-11": 408,
       "2024-01-09": 960,
       "2024-01-08": 58,
-      "2024-01-06": 55
+      "2024-01-06": 35
     }
   },
   {
@@ -262,18 +262,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
     "status": "up",
-    "uptime": "96.64%",
-    "uptimeDay": "86.91%",
-    "uptimeWeek": "91.28%",
-    "uptimeMonth": "91.77%",
-    "uptimeYear": "95.25%",
+    "uptime": "96.63%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "91.34%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "95.23%",
     "time": 1182,
     "timeDay": 930,
     "timeWeek": 914,
     "timeMonth": 917,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2024-03-18": 7,
       "2024-03-17": 203,
       "2024-03-15": 143,
       "2024-03-14": 188,
@@ -339,7 +338,8 @@
       "2023-11-12": 173,
       "2023-11-11": 57,
       "2023-11-09": 102,
-      "2023-11-07": 28
+      "2023-11-07": 28,
+      "2023-11-06": 94
     }
   },
   {
@@ -347,19 +347,19 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "74.61%",
-    "uptimeWeek": "75.02%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "74.35%",
+    "uptimeWeek": "74.98%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
     "time": 1044,
-    "timeDay": 1299,
-    "timeWeek": 1219,
+    "timeDay": 1301,
+    "timeWeek": 1218,
     "timeMonth": 1069,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2024-03-18": 16,
+      "2024-03-18": 20,
       "2024-03-17": 434,
       "2024-03-16": 458,
       "2024-03-15": 407,
@@ -372,8 +372,7 @@
       "2024-02-29": 50,
       "2024-02-28": 25,
       "2024-02-27": 332,
-      "2024-02-26": 16,
-      "2024-02-25": 20
+      "2024-02-26": 16
     }
   },
   {
