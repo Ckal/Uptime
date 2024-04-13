@@ -84,23 +84,23 @@
     "slug": "bofrost-de",
     "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "73.66%",
-    "uptimeWeek": "68.04%",
-    "uptimeMonth": "92.65%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "74.20%",
+    "uptimeWeek": "67.91%",
+    "uptimeMonth": "92.62%",
+    "uptimeYear": "99.38%",
     "time": 970,
     "timeDay": 1052,
     "timeWeek": 1050,
     "timeMonth": 1059,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2024-04-13": 259,
+      "2024-04-13": 251,
       "2024-04-12": 407,
       "2024-04-11": 422,
       "2024-04-10": 551,
       "2024-04-09": 670,
       "2024-04-08": 696,
-      "2024-04-07": 217
+      "2024-04-07": 238
     }
   },
   {
@@ -116,7 +116,7 @@
     "uptimeYear": "99.40%",
     "time": 1154,
     "timeDay": 1072,
-    "timeWeek": 1058,
+    "timeWeek": 1056,
     "timeMonth": 1046,
     "timeYear": 1154,
     "dailyMinutesDown": {
@@ -220,7 +220,7 @@
     "uptimeYear": "99.42%",
     "time": 1138,
     "timeDay": 853,
-    "timeWeek": 995,
+    "timeWeek": 992,
     "timeMonth": 957,
     "timeYear": 1136,
     "dailyMinutesDown": {
@@ -250,19 +250,19 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "81.44%",
-    "uptimeWeek": "74.23%",
-    "uptimeMonth": "93.43%",
+    "uptimeDay": "81.76%",
+    "uptimeWeek": "74.27%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 1080,
-    "timeDay": 1046,
-    "timeWeek": 1175,
+    "timeDay": 1030,
+    "timeWeek": 1174,
     "timeMonth": 1252,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2024-04-13": 140,
+      "2024-04-13": 135,
       "2024-04-12": 372,
       "2024-04-11": 296,
       "2024-04-10": 535,
@@ -270,7 +270,7 @@
       "2024-04-08": 320,
       "2024-04-07": 213,
       "2024-04-06": 361,
-      "2024-04-05": 130
+      "2024-04-05": 169
     }
   },
   {
@@ -346,7 +346,7 @@
     "uptimeYear": "99.39%",
     "time": 969,
     "timeDay": 912,
-    "timeWeek": 940,
+    "timeWeek": 942,
     "timeMonth": 963,
     "timeYear": 970,
     "dailyMinutesDown": {
