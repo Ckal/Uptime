@@ -84,12 +84,12 @@
     "slug": "bofrost-de",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "42.62%",
+    "uptimeDay": "43.31%",
     "uptimeWeek": "64.50%",
     "uptimeMonth": "91.83%",
     "uptimeYear": "99.32%",
     "time": 976,
-    "timeDay": 1059,
+    "timeDay": 1064,
     "timeWeek": 1075,
     "timeMonth": 1084,
     "timeYear": 977,
@@ -152,7 +152,7 @@
     "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "90.36%",
+    "uptimeMonth": "90.39%",
     "uptimeYear": "97.77%",
     "time": 1273,
     "timeDay": 0,
@@ -213,18 +213,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "78.18%",
-    "uptimeWeek": "93.48%",
-    "uptimeMonth": "92.45%",
+    "uptimeDay": "77.96%",
+    "uptimeWeek": "93.45%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 1126,
-    "timeDay": 929,
+    "timeDay": 928,
     "timeWeek": 903,
     "timeMonth": 950,
     "timeYear": 1124,
     "dailyMinutesDown": {
+      "2024-04-22": 3,
       "2024-04-21": 331,
       "2024-04-20": 100,
       "2024-04-19": 49,
@@ -245,7 +246,7 @@
       "2024-04-02": 90,
       "2024-04-01": 132,
       "2024-03-31": 172,
-      "2024-03-30": 155
+      "2024-03-30": 139
     }
   },
   {
@@ -255,9 +256,9 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "63.44%",
-    "uptimeWeek": "75.55%",
-    "uptimeMonth": "92.45%",
+    "uptimeDay": "63.60%",
+    "uptimeWeek": "75.57%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 1081,
     "timeDay": 1080,
@@ -265,7 +266,7 @@
     "timeMonth": 1196,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2024-04-22": 22,
+      "2024-04-22": 32,
       "2024-04-21": 553,
       "2024-04-20": 261,
       "2024-04-19": 391,
@@ -274,7 +275,7 @@
       "2024-04-16": 360,
       "2024-04-15": 287,
       "2024-04-14": 567,
-      "2024-04-13": 267
+      "2024-04-13": 251
     }
   },
   {
