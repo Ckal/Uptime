@@ -81,24 +81,24 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.44%",
-    "uptimeDay": "27.43%",
-    "uptimeWeek": "55.70%",
-    "uptimeMonth": "89.80%",
+    "uptimeDay": "27.38%",
+    "uptimeWeek": "55.89%",
+    "uptimeMonth": "89.85%",
     "uptimeYear": "99.15%",
     "time": 976,
-    "timeDay": 1129,
-    "timeWeek": 1069,
+    "timeDay": 1139,
+    "timeWeek": 1070,
     "timeMonth": 1078,
-    "timeYear": 977,
+    "timeYear": 978,
     "dailyMinutesDown": {
-      "2024-04-23": 941,
+      "2024-04-23": 942,
       "2024-04-22": 969,
       "2024-04-21": 820,
       "2024-04-20": 989,
       "2024-04-19": 636,
-      "2024-04-18": 109
+      "2024-04-18": 89
     }
   },
   {
@@ -108,17 +108,17 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "80.14%",
-    "uptimeWeek": "86.86%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "81.30%",
+    "uptimeWeek": "86.95%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "99.33%",
     "time": 1153,
     "timeDay": 1051,
     "timeWeek": 1048,
     "timeMonth": 1043,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2024-04-23": 234,
+      "2024-04-23": 225,
       "2024-04-22": 246,
       "2024-04-21": 88,
       "2024-04-20": 431,
@@ -137,7 +137,7 @@
       "2024-04-07": 256,
       "2024-04-06": 96,
       "2024-04-05": 105,
-      "2024-04-04": 62
+      "2024-04-04": 112
     }
   },
   {
@@ -149,7 +149,7 @@
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.18%",
+    "uptimeMonth": "96.20%",
     "uptimeYear": "97.77%",
     "time": 1273,
     "timeDay": 0,
@@ -251,19 +251,19 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.62%",
-    "uptimeDay": "65.48%",
-    "uptimeWeek": "74.78%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "65.76%",
+    "uptimeWeek": "74.74%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 1083,
-    "timeDay": 1127,
-    "timeWeek": 1110,
-    "timeMonth": 1181,
+    "timeDay": 1146,
+    "timeWeek": 1114,
+    "timeMonth": 1182,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2024-04-23": 431,
+      "2024-04-23": 435,
       "2024-04-22": 307,
       "2024-04-21": 553,
       "2024-04-20": 261,
@@ -271,7 +271,7 @@
       "2024-04-18": 245,
       "2024-04-17": 351,
       "2024-04-16": 360,
-      "2024-04-15": 119
+      "2024-04-15": 77
     }
   },
   {
@@ -344,9 +344,9 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "72.60%",
-    "uptimeWeek": "85.72%",
-    "uptimeMonth": "93.34%",
+    "uptimeDay": "73.78%",
+    "uptimeWeek": "85.80%",
+    "uptimeMonth": "93.32%",
     "uptimeYear": "99.44%",
     "time": 970,
     "timeDay": 992,
@@ -354,7 +354,7 @@
     "timeMonth": 972,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2024-04-23": 306,
+      "2024-04-23": 297,
       "2024-04-22": 345,
       "2024-04-21": 277,
       "2024-04-20": 205,
@@ -374,7 +374,7 @@
       "2024-04-06": 100,
       "2024-04-05": 102,
       "2024-04-04": 115,
-      "2024-04-03": 23
+      "2024-04-03": 42
     }
   },
   {
@@ -620,19 +620,19 @@
     "url": "https://www.bofrost.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.es.ico",
     "slug": "bofrost-es",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "91.63%",
-    "uptimeMonth": "92.97%",
+    "status": "degraded",
+    "uptime": "99.16%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "91.57%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "98.72%",
     "time": 1160,
-    "timeDay": 1191,
-    "timeWeek": 1175,
-    "timeMonth": 1157,
+    "timeDay": 1210,
+    "timeWeek": 1179,
+    "timeMonth": 1158,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2024-04-23": 96,
+      "2024-04-23": 101,
       "2024-04-22": 77,
       "2024-04-21": 346,
       "2024-04-20": 40,
@@ -692,7 +692,7 @@
       "2024-02-06": 20,
       "2024-02-05": 20,
       "2024-02-01": 24,
-      "2024-01-31": 54
+      "2024-01-31": 1
     }
   }
 ]
