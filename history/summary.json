@@ -83,14 +83,14 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.40%",
-    "uptimeDay": "32.74%",
-    "uptimeWeek": "52.06%",
-    "uptimeMonth": "88.97%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "33.16%",
+    "uptimeWeek": "52.49%",
+    "uptimeMonth": "89.07%",
+    "uptimeYear": "99.09%",
     "time": 978,
-    "timeDay": 1065,
+    "timeDay": 1063,
     "timeWeek": 1064,
     "timeMonth": 1072,
     "timeYear": 979,
@@ -100,7 +100,7 @@
       "2024-04-25": 942,
       "2024-04-24": 825,
       "2024-04-23": 1055,
-      "2024-04-22": 636
+      "2024-04-22": 592
     }
   },
   {
@@ -110,9 +110,9 @@
     "slug": "bofrost-at",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "84.55%",
-    "uptimeMonth": "91.88%",
+    "uptimeDay": "93.21%",
+    "uptimeWeek": "84.65%",
+    "uptimeMonth": "91.87%",
     "uptimeYear": "99.32%",
     "time": 1151,
     "timeDay": 1004,
@@ -120,7 +120,7 @@
     "timeMonth": 1037,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2024-04-27": 55,
+      "2024-04-27": 45,
       "2024-04-26": 308,
       "2024-04-25": 247,
       "2024-04-24": 182,
@@ -138,7 +138,7 @@
       "2024-04-12": 160,
       "2024-04-11": 62,
       "2024-04-10": 117,
-      "2024-04-09": 103
+      "2024-04-09": 120
     }
   },
   {
@@ -256,7 +256,7 @@
     "slug": "bofrost-lu",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "78.10%",
+    "uptimeDay": "78.37%",
     "uptimeWeek": "68.23%",
     "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
@@ -510,8 +510,8 @@
     "status": "up",
     "uptime": "96.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.66%",
-    "uptimeMonth": "90.81%",
+    "uptimeWeek": "60.59%",
+    "uptimeMonth": "90.80%",
     "uptimeYear": "94.06%",
     "time": 1481,
     "timeDay": 330,
@@ -519,7 +519,7 @@
     "timeMonth": 1438,
     "timeYear": 1593,
     "dailyMinutesDown": {
-      "2024-04-27": 806,
+      "2024-04-27": 813,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 280,
@@ -632,7 +632,7 @@
     "uptime": "99.24%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "90.10%",
-    "uptimeMonth": "92.82%",
+    "uptimeMonth": "92.83%",
     "uptimeYear": "98.84%",
     "time": 1161,
     "timeDay": 1128,
