@@ -8,7 +8,7 @@
     "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.99%",
-    "uptimeMonth": "97.79%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "95.83%",
     "time": 692,
     "timeDay": 0,
@@ -83,14 +83,14 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "32.92%",
+    "uptimeDay": "35.15%",
     "uptimeWeek": "53.83%",
     "uptimeMonth": "89.38%",
     "uptimeYear": "99.11%",
     "time": 979,
-    "timeDay": 1034,
+    "timeDay": 1028,
     "timeWeek": 1059,
     "timeMonth": 1071,
     "timeYear": 979,
@@ -212,18 +212,19 @@
     "url": "https://www.bofrost.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.be.ico",
     "slug": "bofrost-be",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "89.83%",
-    "uptimeMonth": "92.40%",
+    "status": "degraded",
+    "uptime": "99.59%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "90.01%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 1119,
-    "timeDay": 860,
-    "timeWeek": 968,
-    "timeMonth": 957,
+    "timeDay": 885,
+    "timeWeek": 973,
+    "timeMonth": 958,
     "timeYear": 1115,
     "dailyMinutesDown": {
+      "2024-04-28": 3,
       "2024-04-27": 61,
       "2024-04-26": 28,
       "2024-04-25": 99,
@@ -246,7 +247,7 @@
       "2024-04-06": 185,
       "2024-04-05": 292,
       "2024-04-04": 271,
-      "2024-04-03": 43
+      "2024-04-03": 10
     }
   },
   {
@@ -254,25 +255,26 @@
     "url": "https://www.bofrost.lu",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.lu.ico",
     "slug": "bofrost-lu",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "64.43%",
-    "uptimeWeek": "66.62%",
-    "uptimeMonth": "92.32%",
+    "uptimeDay": "64.21%",
+    "uptimeWeek": "66.89%",
+    "uptimeMonth": "92.38%",
     "uptimeYear": "99.36%",
     "time": 1084,
-    "timeDay": 1057,
+    "timeDay": 1064,
     "timeWeek": 1146,
     "timeMonth": 1150,
     "timeYear": 1086,
     "dailyMinutesDown": {
+      "2024-04-28": 3,
       "2024-04-27": 513,
       "2024-04-26": 526,
       "2024-04-25": 394,
       "2024-04-24": 588,
       "2024-04-23": 524,
       "2024-04-22": 307,
-      "2024-04-21": 511
+      "2024-04-21": 481
     }
   },
   {
@@ -335,8 +337,7 @@
       "2023-06-02": 43,
       "2023-05-04": 26,
       "2023-05-02": 33,
-      "2023-05-01": 34,
-      "2023-04-29": 16
+      "2023-05-01": 34
     }
   },
   {
@@ -346,13 +347,13 @@
     "slug": "bofrost-fr",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "83.95%",
-    "uptimeWeek": "82.00%",
+    "uptimeDay": "85.64%",
+    "uptimeWeek": "82.22%",
     "uptimeMonth": "92.14%",
     "uptimeYear": "99.34%",
     "time": 970,
-    "timeDay": 1066,
-    "timeWeek": 975,
+    "timeDay": 1072,
+    "timeWeek": 976,
     "timeMonth": 961,
     "timeYear": 972,
     "dailyMinutesDown": {
@@ -424,8 +425,7 @@
       "2023-06-04": 48,
       "2023-05-27": 30,
       "2023-05-04": 26,
-      "2023-05-02": 33,
-      "2023-04-29": 16
+      "2023-05-02": 33
     }
   },
   {
@@ -507,18 +507,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.hr.ico",
     "slug": "bofrost-hr",
     "status": "up",
-    "uptime": "96.01%",
+    "uptime": "96.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.41%",
-    "uptimeMonth": "89.37%",
-    "uptimeYear": "93.94%",
+    "uptimeWeek": "54.10%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "93.93%",
     "time": 1481,
     "timeDay": 0,
     "timeWeek": 928,
     "timeMonth": 1460,
     "timeYear": 1595,
     "dailyMinutesDown": {
-      "2024-04-27": 1436,
+      "2024-04-28": 27,
+      "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 280,
@@ -568,8 +569,7 @@
       "2023-07-05": 32,
       "2023-06-16": 34,
       "2023-06-06": 32,
-      "2023-05-27": 30,
-      "2023-04-29": 16
+      "2023-05-27": 30
     }
   },
   {
@@ -630,7 +630,7 @@
     "status": "up",
     "uptime": "99.24%",
     "uptimeDay": "96.28%",
-    "uptimeWeek": "89.96%",
+    "uptimeWeek": "90.27%",
     "uptimeMonth": "94.13%",
     "uptimeYear": "98.84%",
     "time": 1161,
