@@ -1,7 +1,7 @@
 url: https://www.bofrost.at
-status: up
+status: degraded
 code: 200
-responseTime: 523
-lastUpdated: 2024-05-09T22:38:45.320Z
+responseTime: 1401
+lastUpdated: 2024-05-09T22:52:21.084Z
 startTime: 2022-10-19T12:32:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
