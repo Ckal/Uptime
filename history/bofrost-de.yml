@@ -1,7 +1,7 @@
 url: https://www.bofrost.de
-status: degraded
+status: up
 code: 200
-responseTime: 1728
-lastUpdated: 2024-05-10T22:00:09.121Z
+responseTime: 606
+lastUpdated: 2024-05-10T22:19:17.920Z
 startTime: 2022-10-19T12:32:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
