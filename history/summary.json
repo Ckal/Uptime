@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "96.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.43%",
+    "uptimeWeek": "86.57%",
     "uptimeMonth": "91.25%",
     "uptimeYear": "95.14%",
     "time": 701,
@@ -86,27 +86,26 @@
     "url": "https://www.bofrost.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.de.ico",
     "slug": "bofrost-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.57%",
-    "uptimeDay": "86.19%",
-    "uptimeWeek": "67.08%",
-    "uptimeMonth": "91.96%",
+    "uptimeDay": "86.16%",
+    "uptimeWeek": "67.07%",
+    "uptimeMonth": "92.00%",
     "uptimeYear": "99.33%",
-    "time": 981,
-    "timeDay": 1156,
-    "timeWeek": 1007,
+    "time": 982,
+    "timeDay": 1166,
+    "timeWeek": 1009,
     "timeMonth": 1030,
-    "timeYear": 982,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-05-12": 132,
+      "2024-05-12": 133,
       "2024-05-11": 289,
       "2024-05-10": 353,
       "2024-05-09": 369,
       "2024-05-08": 454,
       "2024-05-07": 786,
       "2024-05-06": 704,
-      "2024-05-05": 436,
-      "2024-05-04": 4
+      "2024-05-05": 418
     }
   },
   {
@@ -355,7 +354,7 @@
     "uptimeYear": "99.20%",
     "time": 972,
     "timeDay": 904,
-    "timeWeek": 936,
+    "timeWeek": 938,
     "timeMonth": 971,
     "timeYear": 974,
     "dailyMinutesDown": {
@@ -638,9 +637,9 @@
     "slug": "bofrost-es",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "90.30%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "91.43%",
+    "uptimeDay": "91.24%",
+    "uptimeWeek": "87.20%",
+    "uptimeMonth": "91.42%",
     "uptimeYear": "99.29%",
     "time": 1160,
     "timeDay": 1126,
@@ -648,7 +647,6 @@
     "timeMonth": 1154,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2024-05-12": 14,
       "2024-05-11": 231,
       "2024-05-10": 178,
       "2024-05-09": 272,
@@ -672,7 +670,7 @@
       "2024-04-21": 346,
       "2024-04-20": 40,
       "2024-04-19": 15,
-      "2024-04-18": 124
+      "2024-04-18": 140
     }
   }
 ]
