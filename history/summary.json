@@ -134,8 +134,8 @@
     "uptimeMonth": "92.02%",
     "uptimeYear": "99.34%",
     "time": 1152,
-    "timeDay": 975,
-    "timeWeek": 1193,
+    "timeDay": 964,
+    "timeWeek": 1195,
     "timeMonth": 1208,
     "timeYear": 1151,
     "dailyMinutesDown": {
@@ -230,9 +230,9 @@
     "slug": "bofrost-be",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "92.99%",
-    "uptimeWeek": "62.17%",
-    "uptimeMonth": "91.30%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "62.11%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "99.27%",
     "time": 1021,
     "timeDay": 1080,
@@ -240,14 +240,14 @@
     "timeMonth": 1113,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2024-07-21": 50,
+      "2024-07-21": 41,
       "2024-07-20": 209,
       "2024-07-19": 620,
       "2024-07-18": 767,
       "2024-07-17": 736,
       "2024-07-16": 725,
       "2024-07-15": 609,
-      "2024-07-14": 100
+      "2024-07-14": 115
     }
   },
   {
@@ -258,7 +258,7 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "98.32%",
-    "uptimeWeek": "62.35%",
+    "uptimeWeek": "62.45%",
     "uptimeMonth": "90.93%",
     "uptimeYear": "99.24%",
     "time": 1122,
@@ -674,18 +674,19 @@
     "url": "https://www.bofrost.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.es.ico",
     "slug": "bofrost-es",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "88.21%",
-    "uptimeMonth": "91.47%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "88.17%",
+    "uptimeMonth": "91.51%",
     "uptimeYear": "99.29%",
-    "time": 1151,
-    "timeDay": 2066,
-    "timeWeek": 1241,
-    "timeMonth": 1181,
-    "timeYear": 1152,
+    "time": 1153,
+    "timeDay": 2831,
+    "timeWeek": 1322,
+    "timeMonth": 1196,
+    "timeYear": 1154,
     "dailyMinutesDown": {
+      "2024-07-21": 5,
       "2024-07-20": 28,
       "2024-07-19": 46,
       "2024-07-18": 283,
@@ -702,7 +703,7 @@
       "2024-07-07": 148,
       "2024-07-06": 287,
       "2024-07-05": 113,
-      "2024-07-04": 55
+      "2024-07-04": 34
     }
   }
 ]
