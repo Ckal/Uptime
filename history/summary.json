@@ -106,7 +106,7 @@
     "uptimeYear": "99.31%",
     "time": 995,
     "timeDay": 850,
-    "timeWeek": 1008,
+    "timeWeek": 1004,
     "timeMonth": 1023,
     "timeYear": 994,
     "dailyMinutesDown": {
@@ -129,19 +129,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "degraded",
-    "uptime": "99.64%",
-    "uptimeDay": "93.96%",
-    "uptimeWeek": "76.16%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "76.17%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "99.35%",
     "time": 1151,
-    "timeDay": 1209,
-    "timeWeek": 1179,
+    "timeDay": 1197,
+    "timeWeek": 1177,
     "timeMonth": 1215,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2024-07-23": 25,
+      "2024-07-23": 24,
       "2024-07-22": 62,
       "2024-07-21": 54,
       "2024-07-20": 92,
@@ -150,7 +150,7 @@
       "2024-07-17": 558,
       "2024-07-16": 590,
       "2024-07-15": 535,
-      "2024-07-14": 210
+      "2024-07-14": 241
     }
   },
   {
@@ -269,8 +269,8 @@
     "uptimeYear": "99.24%",
     "time": 1122,
     "timeDay": 952,
-    "timeWeek": 1143,
-    "timeMonth": 1169,
+    "timeWeek": 1141,
+    "timeMonth": 1170,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2024-07-22": 74,
@@ -684,17 +684,17 @@
     "slug": "bofrost-es",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "92.15%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "91.57%",
+    "uptimeYear": "99.30%",
     "time": 1153,
-    "timeDay": 1098,
+    "timeDay": 1115,
     "timeWeek": 1335,
     "timeMonth": 1194,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2024-07-23": 20,
+      "2024-07-23": 33,
       "2024-07-22": 64,
       "2024-07-20": 28,
       "2024-07-19": 46,
@@ -711,7 +711,7 @@
       "2024-07-08": 458,
       "2024-07-07": 148,
       "2024-07-06": 287,
-      "2024-07-05": 66
+      "2024-07-05": 28
     }
   }
 ]
