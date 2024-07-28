@@ -106,7 +106,7 @@
     "uptimeMonth": "91.82%",
     "uptimeYear": "99.32%",
     "time": 995,
-    "timeDay": 910,
+    "timeDay": 900,
     "timeWeek": 958,
     "timeMonth": 1027,
     "timeYear": 997,
@@ -133,19 +133,19 @@
     "url": "https://www.bofrost.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "92.32%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "92.38%",
+    "uptimeYear": "99.37%",
     "time": 1149,
-    "timeDay": 1003,
-    "timeWeek": 1042,
+    "timeDay": 1015,
+    "timeWeek": 1044,
     "timeMonth": 1214,
     "timeYear": 1149,
     "dailyMinutesDown": {
-      "2024-07-28": 17,
+      "2024-07-28": 18,
       "2024-07-27": 16,
       "2024-07-26": 224,
       "2024-07-25": 62,
@@ -158,7 +158,7 @@
       "2024-07-18": 735,
       "2024-07-17": 558,
       "2024-07-16": 590,
-      "2024-07-15": 273
+      "2024-07-15": 245
     }
   },
   {
@@ -250,7 +250,7 @@
     "uptimeYear": "99.23%",
     "time": 1018,
     "timeDay": 922,
-    "timeWeek": 971,
+    "timeWeek": 974,
     "timeMonth": 1115,
     "timeYear": 1017,
     "dailyMinutesDown": {
@@ -283,7 +283,7 @@
     "uptimeYear": "99.27%",
     "time": 1123,
     "timeDay": 959,
-    "timeWeek": 1027,
+    "timeWeek": 1030,
     "timeMonth": 1180,
     "timeYear": 1124,
     "dailyMinutesDown": {
@@ -312,7 +312,7 @@
     "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.89%",
+    "uptimeMonth": "80.91%",
     "uptimeYear": "94.89%",
     "time": 1155,
     "timeDay": 549,
@@ -705,17 +705,17 @@
     "slug": "bofrost-es",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "94.73%",
-    "uptimeWeek": "90.87%",
-    "uptimeMonth": "91.15%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "91.10%",
     "uptimeYear": "99.26%",
     "time": 1155,
-    "timeDay": 1133,
+    "timeDay": 1143,
     "timeWeek": 1371,
     "timeMonth": 1215,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2024-07-28": 52,
+      "2024-07-28": 40,
       "2024-07-27": 24,
       "2024-07-26": 187,
       "2024-07-25": 198,
@@ -734,7 +734,7 @@
       "2024-07-11": 242,
       "2024-07-10": 370,
       "2024-07-09": 224,
-      "2024-07-08": 281
+      "2024-07-08": 316
     }
   }
 ]
