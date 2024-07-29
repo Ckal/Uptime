@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.at.ico",
     "slug": "bofrost-at",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "86.03%",
-    "uptimeWeek": "92.56%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.63%",
+    "uptimeDay": "86.79%",
+    "uptimeWeek": "92.67%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "99.34%",
     "time": 1149,
     "timeDay": 960,
     "timeWeek": 1038,
-    "timeMonth": 1210,
+    "timeMonth": 1211,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2024-07-29": 41,
+      "2024-07-29": 30,
       "2024-07-28": 177,
       "2024-07-27": 16,
       "2024-07-26": 224,
@@ -162,7 +162,7 @@
       "2024-07-18": 735,
       "2024-07-17": 558,
       "2024-07-16": 590,
-      "2024-07-15": 105
+      "2024-07-15": 167
     }
   },
   {
@@ -288,7 +288,7 @@
     "time": 1123,
     "timeDay": 944,
     "timeWeek": 1029,
-    "timeMonth": 1178,
+    "timeMonth": 1177,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2024-07-29": 30,
@@ -317,7 +317,7 @@
     "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.29%",
+    "uptimeMonth": "83.31%",
     "uptimeYear": "94.89%",
     "time": 1153,
     "timeDay": 564,
@@ -428,7 +428,7 @@
     "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.45%",
+    "uptimeMonth": "90.48%",
     "uptimeYear": "94.64%",
     "time": 1258,
     "timeDay": 344,
@@ -709,19 +709,19 @@
     "url": "https://www.bofrost.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.bofrost.es.ico",
     "slug": "bofrost-es",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "95.68%",
-    "uptimeWeek": "90.97%",
-    "uptimeMonth": "91.42%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "90.92%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.29%",
     "time": 1155,
-    "timeDay": 1240,
-    "timeWeek": 1242,
+    "timeDay": 1248,
+    "timeWeek": 1243,
     "timeMonth": 1213,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2024-07-29": 12,
+      "2024-07-29": 17,
       "2024-07-28": 73,
       "2024-07-27": 24,
       "2024-07-26": 187,
@@ -741,7 +741,7 @@
       "2024-07-11": 242,
       "2024-07-10": 370,
       "2024-07-09": 224,
-      "2024-07-08": 128
+      "2024-07-08": 82
     }
   }
 ]
