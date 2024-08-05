@@ -3,78 +3,19 @@ owner: Ckal # Your GitHub organization or username, where this repository lives
 repo: Uptime # The name of this repository
 
 sites:
-  - name: Bofrost.com
-    url: https://www.bofrost.com
+  - name: Visual-Crew_Builder
+    url: https://visual-crew-builder.ai
     maxResponseTime: 400
     assignees:
       Ckal
-  - name: Bofrost.de
-    url: https://www.bofrost.de
-    maxResponseTime: 700
-    assignees:
-      Ckal
-  - name: Bofrost.at
-    url: https://www.bofrost.at
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.nl
-    url: https://www.bofrost.nl
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.be
-    url: https://www.bofrost.be
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.lu
-    url: https://www.bofrost.lu
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.ch
-    url: https://www.bofrost.ch
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.fr
-    url: https://www.bofrost.fr
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.gr
-    url: https://www.bofrost.gr
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.it
-    url: https://www.bofrost.it
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.hr 
-    url: https://www.bofrost.hr
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.si
-    url: https://www.bofrost.si
-    maxResponseTime: 800
-    assignees:
-      Ckal
-  - name: Bofrost.es
-    url: https://www.bofrost.es
-    maxResponseTime: 800
-    assignees:
-      Ckal
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   ##cname: demo.upptime.js.org
   baseUrl: /Uptime
-  logoUrl: https://www.bofrost.com/_ui/responsive/theme-main/css/images/bofrost_logo.svg
+  logoUrl: https://visual-crew-builder.ai/icon.ico
   name: Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
