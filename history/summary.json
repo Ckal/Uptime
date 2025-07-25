@@ -4,7 +4,7 @@
     "url": "https://visual-crew-builder.ai",
     "icon": "https://icons.duckduckgo.com/ip3/visual-crew-builder.ai.ico",
     "slug": "visual-crew-builder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 752,
     "timeDay": 238,
     "timeWeek": 360,
-    "timeMonth": 566,
+    "timeMonth": 560,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2025-07-09": 18,
