@@ -6,17 +6,17 @@
     "slug": "visual-crew-builder",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "94.58%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "92.96%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "87.63%",
+    "uptimeMonth": "92.93%",
     "uptimeYear": "99.41%",
     "time": 757,
-    "timeDay": 792,
-    "timeWeek": 772,
+    "timeDay": 793,
+    "timeWeek": 771,
     "timeMonth": 760,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-11-01": 78,
+      "2025-11-01": 71,
       "2025-10-31": 278,
       "2025-10-30": 273,
       "2025-10-29": 173,
@@ -28,7 +28,7 @@
       "2025-10-22": 196,
       "2025-10-21": 423,
       "2025-10-20": 459,
-      "2025-10-19": 116
+      "2025-10-19": 136
     }
   }
 ]
