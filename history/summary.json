@@ -4,19 +4,19 @@
     "url": "https://visual-crew-builder.ai",
     "icon": "https://icons.duckduckgo.com/ip3/visual-crew-builder.ai.ico",
     "slug": "visual-crew-builder",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "75.29%",
-    "uptimeWeek": "74.07%",
-    "uptimeMonth": "92.36%",
+    "uptimeDay": "73.84%",
+    "uptimeWeek": "74.03%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "99.36%",
-    "time": 772,
-    "timeDay": 802,
-    "timeWeek": 794,
-    "timeMonth": 803,
-    "timeYear": 779,
+    "time": 771,
+    "timeDay": 804,
+    "timeWeek": 790,
+    "timeMonth": 799,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2025-11-23": 214,
+      "2025-11-23": 244,
       "2025-11-22": 287,
       "2025-11-21": 561,
       "2025-11-20": 360,
@@ -28,7 +28,7 @@
       "2025-11-14": 76,
       "2025-11-13": 159,
       "2025-11-12": 49,
-      "2025-11-10": 119
+      "2025-11-10": 103
     }
   }
 ]
