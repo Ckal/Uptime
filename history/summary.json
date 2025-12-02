@@ -5,25 +5,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/visual-crew-builder.ai.ico",
     "slug": "visual-crew-builder",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "74.30%",
-    "uptimeWeek": "69.34%",
-    "uptimeMonth": "92.56%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.52%",
+    "uptimeDay": "76.29%",
+    "uptimeWeek": "69.89%",
+    "uptimeMonth": "92.44%",
+    "uptimeYear": "99.37%",
     "time": 776,
-    "timeDay": 809,
-    "timeWeek": 820,
+    "timeDay": 802,
+    "timeWeek": 819,
     "timeMonth": 812,
-    "timeYear": 785,
+    "timeYear": 784,
     "dailyMinutesDown": {
-      "2025-12-02": 198,
+      "2025-12-02": 187,
       "2025-12-01": 641,
       "2025-11-30": 345,
       "2025-11-29": 267,
       "2025-11-28": 324,
       "2025-11-27": 399,
       "2025-11-26": 705,
-      "2025-11-25": 382
+      "2025-11-25": 445
     }
   }
 ]
